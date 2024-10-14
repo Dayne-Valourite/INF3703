@@ -1,0 +1,465 @@
+1. A client-side extension is a program that interacts directly with the web server to handle specific types of requests.  
+A. True  
+B. False*
+
+2. A data store is used by data analysts to create queries that access the database.  
+A. True  
+B. False*
+
+3. A data warehouse designer must define common business dimensions that will be used by a data analyst to expand a search.  
+A. True  
+B. False*
+
+4. A database management system (DBMS) must have validation, transformation, and mapping functions, as well as other functions, in order to be classified as distributed.  
+A. True*  
+B. False  
+
+5. A distributed database management system (DDBMS) governs the storage and processing of logically related data over interconnected computer systems.  
+A. True*  
+B. False  
+
+6. A distributed database management system (DDBMS) must be communications-media-dependent.  
+A. True  
+B. False*
+
+7. A document type definition (DTD) can be referenced by many Extensible Mark-up Language (XML) documents of the same type.  
+A. True*  
+B. False  
+
+8. A field-level lock allows concurrent transactions to access the same row, as long as they require the use of different fields within that row.  
+A. True*  
+B. False  
+
+9. A full backup, or database dump, produces a complete copy of the entire database.  
+A. True*  
+B. False  
+
+10. A good API makes it easy to develop a program by providing all of the building blocks.  
+A. True*  
+B. False  
+
+11. A growing phase in a two-phase lock is when a transaction acquires all the required locks without locking any data.  
+A. True  
+B. False*
+
+12. A lock guarantees the open use of a data item to multiple transactions.  
+A. True  
+B. False*
+
+13. A passive data dictionary is one that is updated automatically with every database access to keep its access information up to date.  
+A. True  
+B. False*
+
+14. A plug-in is an external application that is automatically invoked by a web browser when needed.  
+A. True*  
+B. False  
+
+15. A scheduler facilitates data isolation to ensure that two transactions do not update the same data element at the same time.  
+A. True*  
+B. False  
+
+16. A security breach is a weakness in a system component that could be exploited to allow unauthorized access or cause service disruptions.  
+A. True  
+B. False*
+
+17. A security vulnerability is a collection of standards and policies created to guarantee the security of a system and ensure auditing and compliance.  
+A. True  
+B. False*
+
+18. A shared lock produces no conflict as long as all the concurrent transactions are read-write only.  
+A. True  
+B. False*
+
+19. A star schema is designed to optimize data query operations rather than data update operations.  
+A. True*  
+B. False  
+
+20. A table space has the same meaning as a file extent.  
+A. True  
+B. False*
+
+21. A transaction processor (TP) is the software component residing on each computer that stores and retrieves data located at the site.  
+A. True  
+B. False*
+
+22. Advanced OLAP feature become more useful when access to them is kept simple.  
+A. True*  
+B. False  
+
+23. All factors must be checked to ensure that each system component operates at its optimum level and has sufficient resources to minimize the occurrence of bottlenecks.  
+A. True*  
+B. False  
+
+24. All transaction management commands are processed during the parsing and execution phases of query processing.  
+A. True*  
+B. False  
+
+25. Although the DBMS is designed to recover a database to a previous consistent state when an interruption prevents the completion of a required set of transactions, the transactions themselves are defined by the end user or programmer and must be semantically correct.  
+A. True*  
+B. False  
+
+26. An application programming interface (API) uses script files that perform specific functions based on the client's parameters that are passed to the web server.  
+A. True  
+B. False*
+
+27. An enterprise database can be defined as the company's data representation that provides support for all present and expected future operations.  
+A. True*  
+B. False  
+
+28. An index scan is less efficient than a full table scan.  
+A. True  
+B. False*
+
+29. An optimistic approach is based on the assumption that the majority of the database operations do not conflict.  
+A. True*  
+B. False  
+
+30. Atomicity indicates the permanence of the database's consistent state.  
+A. True  
+B. False*
+
+31. Backups must be clearly identified through detailed descriptions and date information, assuring that the correct backup is used to recover the database.  
+A. True*  
+B. False  
+
+32. Business intelligence (BI) architecture is composed of data, people, processes, and technology working together to facilitate and enhance a business's management and governance.  
+A. True*  
+B. False  
+
+33. Business intelligence is a framework that allows a business to transform data into information, information into knowledge, and knowledge into wisdom.  
+A. True*  
+B. False  
+
+34. Concurrent backups take place while the user is working on the database.  
+A. True*  
+B. False  
+
+35. Current distributed database management system (DDBMS) are subject to some problems, such as the complexity of management and control.  
+A. True*  
+B. False  
+
+36. Data warehouse data are organized and summarized by table, such as CUSTOMER and ADDRESS.  
+A. True  
+B. False*
+
+37. Database connectivity software is also known as database middleware because it interfaces between the application program and the database.  
+A. True*  
+B. False  
+
+38. DBMS implementations are typically similar in complexity to two-tier client/server configurations.  
+A. True  
+B. False*
+
+39. Decision support data is a snapshot of the operational data at a given point in time.  
+A. True*  
+B. False  
+
+40. Disaster management includes all the end-user activities designed to secure data availability before a physical disaster or a database integrity failure.  
+A. True  
+B. False*
+
+41. Distributed data access was needed to support geographically dispersed business units.  
+A. True*  
+B. False  
+
+42. Distributed database systems do not require complex mechanisms to manage transactions and ensure the database's consistency and integrity.  
+A. True  
+B. False*
+
+43. Distributed processing does not require a distributed database, and a distributed database does not require distributed processing.  
+A. True  
+B. False*
+
+44. Distributed processing shares a database's logical processing among two or more physically independent sites that are connected through a network.  
+A. True*  
+B. False  
+
+45. Distribution transparency is supported by a distributed data dictionary.  
+A. True*  
+B. False  
+
+46. Durability requires that all portions of the transaction must be treated as a single, logical unit of work in which all operations are applied and completed to produce a consistent database.  
+A. True  
+B. False*
+
+47. Extending the web server functionality implies that the web server and the web-to-database middleware will properly communicate with each other.  
+A. True*  
+B. False  
+
+48. Fully equivalent means that the optimized query results are always the same as the original query.  
+A. True*  
+B. False  
+
+49. Good database performance is easy to evaluate.  
+A. True  
+B. False*
+
+50. Having a computerized DBMS guarantees that the data will be properly used to provide the best solutions required by managers.  
+A. True  
+B. False*
+
+51. Having a web-based database interface eliminates the design and implementation issues of a database system.  
+A. True  
+B. False*
+
+52. In a page-level lock, the DBMS will lock an entire disk page.  
+A. True*  
+B. False  
+
+53. In order to manage distributed data, copies or parts of the database processing functions must be distributed to all data storage sites.  
+A. True*  
+B. False  
+
+54. In the context of database administration, standards are written instructions that describe a series of steps to be followed during the performance of a given activity.  
+A. True  
+B. False*
+
+55. In the database query scenario, the web server generates the webpage contents before it sends the page to the client web browser.  
+A. True*  
+B. False  
+
+56. In the single-site processing, single-site data (SPSD) scenario, all processing must be done on the end user's side of the system.  
+A. True  
+B. False*
+
+57. Incremental backups produce a backup of all data.  
+A. True  
+B. False*
+
+58. Indexes do not facilitate join operations.  
+A. True  
+B. False*
+
+59. Master data management's main goal is to provide a partial and segmented definition of all data within an organization.  
+A. True  
+B. False*
+
+60. Maximizing disk contention is one of the general recommendations for the physical storage of databases.  
+A. True  
+B. False*
+
+61. Most current-generation relational DBMSs perform automatic query optimization at the client end.  
+A. True  
+B. False*
+
+62. Most real-world database transactions are formed by only one database request.  
+A. True  
+B. False*
+
+63. Multidimensional data analysis techniques include advanced computational functions.  
+A. True*  
+B. False  
+
+64. Normalizing fact tables improves data access performance and saves data storage space.  
+A. True  
+B. False*
+
+65. One of the advantages of a distributed database management system (DDBMS) is security.  
+A. True  
+B. False*
+
+66. One of
+
+ the advantages of a distributed database management system (DDBMS) is that the data is located near the site with the least demand.  
+A. True  
+B. False*
+
+67. One of the main functions of a database system is to provide timely answers to end users.  
+A. True*  
+B. False  
+
+68. Operational data and decision support data serve the same purpose.  
+A. True  
+B. False*
+
+69. Performance transparency ensures that the system finds the most cost-effective path to access remote data.  
+A. True*  
+B. False  
+
+70. Periodicity, usually expressed as current year only, previous years, or all years, provides information about the time span of the data stored in a table.  
+A. True*  
+B. False  
+
+71. Queries against operational data typically are broad in scope and high in complexity.  
+A. True  
+B. False*
+
+72. RAID systems use a single disk to create storage volumes.  
+A. True  
+B. False*
+
+73. Rapid ad hoc data became unnecessary in the quick-response decision-making environment.  
+A. True  
+B. False*
+
+74. Relational data warehouses use the star schema design technique to handle multidimensional data.  
+A. True*  
+B. False  
+
+75. ROLAP and MOLAP vendors are working toward the integration of their respective solutions within a unified decision support framework.  
+A. True*  
+B. False  
+
+76. Serializability means that data used during the execution of a transaction cannot be used by a second transaction until the first one is completed.  
+A. True  
+B. False*
+
+77. System support activities cover all tasks directly related to the day-to-day operations of a DBMS and its applications.  
+A. True*  
+B. False  
+
+78. Testing procedures and standards must already be in place before any application program can be approved for use in the company.  
+A. True*  
+B. False  
+
+79. The B-tree index is used mainly in tables in which column values repeat a relatively small number of times.  
+A. True*  
+B. False  
+
+80. The benefits of the web as a data access platform arise from its cross-platform functionality and the simplicity of its interface.  
+A. True*  
+B. False  
+
+81. The browser's interpretation and presentation capabilities are sufficient to develop web-based applications.  
+A. True  
+B. False*
+
+82. The Common Gateway Interface (CGI) is a newer web server interface standard that is much more efficient and faster than a dynamic link library (DLL).  
+A. True  
+B. False*
+
+83. The CUBE extension enables you to get a subtotal for each column listed in the expression, in addition to a grand total for the last column listed.  
+A. True*  
+B. False  
+
+84. The data cache caches system catalog data and the contents of the indexes.  
+A. True*  
+B. False  
+
+85. The data warehouse development life cycle differs from classical systems development.  
+A. True*  
+B. False  
+
+86. The DBA function provides data modeling and design services to the end-user community, often through coordination with an application development group within the data-processing department.  
+A. True*  
+B. False  
+
+87. The DBA interacts with the end user by providing data and information support services to the organization's departments.  
+A. True*  
+B. False  
+
+88. The DBA is responsible for ensuring that the data are distributed to the right persons, at the right time, and in the right format.  
+A. True*  
+B. False  
+
+89. The DBA must supervise the installation of all software and hardware designated to support the data administration strategy.  
+A. True*  
+B. False  
+
+90. The DBA or security officer must secure an insurance policy to provide financial protection in the event of a database failure.  
+A. True  
+B. False*
+
+91. The DBMS guarantees that the semantic meaning of a transaction truly represents the real-world event.  
+A. True  
+B. False*
+
+92. The effects of bad database design, implementation, and management are magnified in an environment in which the number of transactions is less than one hundred.  
+A. True  
+B. False*
+
+93. The first line of an XML document represents the document declaration, and it is mandatory.  
+A. True*  
+B. False  
+
+94. The label "stateless system" indicates that, at any given time, there is an open communication line between the server and each client accessing it.  
+A. True  
+B. False*
+
+95. The level of transparency supported by the distributed database management system remains the same for all systems.  
+A. True  
+B. False*
+
+96. The multiuser DBMS must implement controls to ensure serializability and isolation of transactions, in addition to atomicity and durability, in order to guard the database's consistency and integrity.  
+A. True*  
+B. False  
+
+97. The only time the client and server computers communicate is when the client requests a page and the server sends the requested page to the client.  
+A. True*  
+B. False  
+
+98. The phenomenon of uncommitted data occurs when two transactions are executed concurrently and the first transaction is rolled back after the second transaction has already accessed the uncommitted data-thus violating the isolation property of transactions.  
+A. True*  
+B. False  
+
+99. The primary factor in determining the most efficient access plan is the I/O cost.  
+A. True*  
+B. False  
+
+100. The purpose of an I/O operation is to move data to and from different computer components or devices.  
+A. True*  
+B. False  
+
+101. The ROLLUP extension is used with the GROUP BY clause to generate aggregates by the listed columns, including the last one.  
+A. True  
+B. False*
+
+102. The scheduler establishes the order in which the operations within concurrent transactions are executed.  
+A. True*  
+B. False  
+
+103. The serializable isolation level is the least restrictive level defined by the ANSI SQL standard.  
+A. True  
+B. False*
+
+104. The SQL cache stores the end-user written SQL.  
+A. True  
+B. False*
+
+105. The SQL execution activities are performed by the query optimizer.  
+A. True  
+B. False*
+
+106. The storage locations for multiple backups must include sites inside and outside the organization.  
+A. True*  
+B. False  
+
+107. The transaction processor (TP) is the software component found in each computer that requests data.  
+A. True*  
+B. False  
+
+108. The use of HTML does not equip a web browser with computational abilities beyond formatting output text and accepting form field inputs.  
+A. True*  
+B. False  
+
+109. The web is the repository for distributed data.  
+A. True*  
+B. False  
+
+110. Time stamping demands a lot of system resources because many transactions might have to be stopped, rescheduled, and restamped.  
+A. True*  
+B. False  
+
+111. Time stamps must only have the single property of uniqueness.  
+A. True  
+B. False*
+
+112. To work with data, the DBMS must retrieve the data from permanent storage and place it in RAM.  
+A. True*  
+B. False  
+
+113. When an end user uses a web browser to dynamically query a database, the client browser actually requests a web page from the web server.  
+A. True*  
+B. False  
+
+114. When using an optimistic approach, during the read phase, a transaction reads the database, executes the needed computations, and makes the updates to a private copy of the database values.  
+A. True*  
+B. False  
+
+115. Whether you purchase online or by standing in line, the system-level transaction details are essentially the same, and they require the same basic database structures and relationships.  
+A. True*  
+B. False  
+
+116. Working with data in the data cache is many times faster than working with data in the data files.  
+A. True*  
+B. False  

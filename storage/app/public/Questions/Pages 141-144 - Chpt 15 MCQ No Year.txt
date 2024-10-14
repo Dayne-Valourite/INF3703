@@ -1,0 +1,140 @@
+3. The DA's job typically has a strong ________ orientation with company-wide scope.
+A. Managerial*
+
+4. In the data-information decision-making cycle, decision making triggers ________.
+A. Actions*
+
+5. ________ management includes all DBA activities designed to secure data availability following a physical disaster or a database integrity failure.
+A. Disaster*
+
+6. ________ is the process that "listens to" and processes the end-user connection requests over the network.
+A. OracleOraDb11g_home1TNSListener*
+
+7. An ________ is a set of instructions generated at application completion time that predetermines how the application will access the database at run time.
+A. Access plan*
+
+8. At the level of top management, the database must be able to ________.
+A. Provide access to external and internal data to identify growth opportunities and to chart the direction of such growth*
+
+9. The data administrator (DA) usually reports directly to ________ management.
+A. Top*
+
+10. ________-end CASE tools provide support for the coding and implementation phases.
+A. Back*
+
+11. The ________ administrator controls and supervises the DBMS.
+A. Database*
+
+12. Procedures and standards must be revised at least ________ to keep them up to date.
+A. Annually*
+
+13. The ________ administrator is responsible for providing a global and comprehensive administrative strategy for all of the organization's data.
+A. Data*
+
+14. To carry out the performance-monitoring and tuning tasks, the DBA must first ________.
+A. Establish DBMS performance goals*
+
+15. The DBA's ________ role is focused on personnel management and on interactions with the end-user community.
+A. Managerial*
+
+16. A ________ is a named collection of settings that control how much of the database resource a given user can use.
+A. Profile*
+
+17. The general coordinator of all DBAs is sometimes known as the ________.
+A. Systems administrator*
+
+18. At the level of middle management, the database must be able to ________.
+A. Deliver the data necessary for tactical decisions and planning*
+
+19. ________-end CASE tools provide support for the planning, analysis, and design phases.
+A. Front*
+
+20. ________ are more detailed and specific than policies and describe the minimum requirements of a given DBA activity.
+A. Standards*
+
+21. User access management is a procedure included in ________.
+A. Authorization management*
+
+22. ________ backups take place while the user is working on the database.
+A. Concurrent*
+
+23. As a manager, the DBA must concentrate on the ________ dimensions of the database administration function.
+A. Control and planning*
+
+24. Instructions to create a password are an example of a ________.
+A. Procedure*
+
+25. In the old, decentralized world of the file system, the ________ department's task was to pool all computer resources to support all departments at the operational level.
+A. DP (Data Processing)*
+
+26. There is a growing trend toward ________ in the data management function.
+A. Specialization*
+
+27. The person responsible for the control of the centralized and shared database is the database ________.
+A. Administrator*
+
+28. ________ are written instructions that describe a series of steps to be followed during the performance of a given activity.
+A. Procedures*
+
+29. A(n) ________ backup produces a complete copy of the entire database.
+A. Full*
+
+30. ________ management defines procedures to protect and guarantee database security and integrity.
+A. Authorization*
+
+31. Several DBMS packages contain features that allow the creation of a(n) ________, which automatically records a brief description of the database operations performed by all users.
+A. Audit log*
+
+32. Some common physical security practices found in large database installations include: secured entrances, password-protected workstations, ________, closed-circuit video, and voice recognition technology.
+A. Electronic personnel badges*
+
+33. ________ security breaches include database access by computer viruses and by hackers whose actions are designed to destroy or alter data.
+A. Corrupting*
+
+34. The DBA's ________ role covers activities involving the use of the DBMS.
+A. Technical*
+
+35. ________ a database usually requires the modification of database configuration parameters, some of which can be changed in real time, using SQL commands, while others require the database to be shut down and restarted.
+A. Fine-tuning*
+
+36. A ________ is a named collection of database access privileges that authorize a user to connect to the database and use the database system resources.
+A. Role*
+
+37. The ________ rationale is simple: business data types tend to remain fairly stable.
+A. IE (Information Engineering)*
+
+38. The database ________ must provide testing and evaluation services for all the database and end-user applications.
+A. Administrator*
+
+39. The ________ administrator is responsible for strategic planning.
+A. Data*
+
+40. Classifying users into ________, according to common access needs, facilitates the DBA's job of controlling and managing the access privileges of individual users.
+A. User groups*
+
+41. "All users must have passwords" is an example of a ________.
+A. Policy*
+
+42. The database ________ is responsible for ensuring database security and integrity.
+A. Security officer*
+
+43. Although no current standard exists, it is common practice to define the DBA function by dividing the DBA operations according to the ________ phases.
+A. DBLC (Database Life Cycle)*
+
+44. ________ are general statements of direction or action that communicate and support DBA goals.
+A. Policies*
+
+45. When introducing a database into an organization, a(n) ________ impact is likely because the database approach creates a more controlled and structured information flow.
+A. Cultural*
+
+46. ________ management is designed to limit access to the database.
+A. User access*
+
+47. A ________ is a uniquely identifiable object that allows a given person to log on to the database.
+A. User*
+
+48. Whatever the type of organization, the database's predominant role is ________.
+A. To support managerial decision making*
+
+49. A(n) ________ data dictionary is automatically updated by the DBMS with every database access.
+A. Active*

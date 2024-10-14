@@ -1,0 +1,139 @@
+1. For a data set to be considered Big Data, it must display all the “3 Vs” – volume, velocity, and variety.
+A. True
+B. False*
+
+2. Scaling out is keeping the same number of systems, but migrating each system to a larger one.
+A. True
+B. False*
+
+3. In many ways, the issues associated with volume and velocity are the same.
+A. True*
+B. False
+
+4. The analysis of data to produce actionable results is feedback loop processing.
+A. True*
+B. False
+
+5. Relational databases rely on unstructured data.
+A. True
+B. False*
+
+6. One tenet of Big Data is that all data that is capable of being captured should be.
+A. True
+B. False*
+
+7. Characteristics that are important in working with data in the relational database model also apply to Big Data.
+A. True*
+B. False
+
+8. Hadoop is a database that has become the de facto standard for most Big Data storage and processing.
+A. True
+B. False*
+
+9. Under the HDFS system, using a write-once, read-many model simplifies concurrency issues.
+A. True*
+B. False
+
+10. A block report is used to let the name node know that the data node is still available.
+A. True
+B. False*
+
+11. A reduce function takes a collection of key-value pairs with the same key value and summarizes them into a single result.
+A. True*
+B. False
+
+12. Hive is a good choice for jobs that require a small subset of data to be returned very quickly.
+A. True
+B. False*
+
+13. Hadoop is a high-level tool that requires little effort to create, manage, and use.
+A. True
+B. False*
+
+14. Flume is a tool for converting data back and forth between a relational database and the HDFS.
+A. True
+B. False*
+
+15. Most NoSQL products run only in a Linux or Unix environment.
+A. True*
+B. False
+
+16. Key-value and document databases are structurally similar.
+A. True*
+B. False
+
+17. A column-family database is a NoSQL database model that organizes data in key-value pairs with keys mapped to a set of columns in the value component.
+A. True*
+B. False
+
+18. Interest in graph databases can be tied to the area of social networks.
+A. True*
+B. False
+
+19. Explanatory analytics uses predictive analytics as a stepping stone to create explanatory models.
+A. True
+B. False*
+
+20. Data mining focuses on the discovery and explanation stages of knowledge acquisition.
+A. True*
+B. False
+
+21. _______ is keeping the same number of systems, but migrating each system to a larger system.
+A. Clustering
+B. Scaling up*
+C. Streaming
+D. Scaling out
+
+22. ______ focuses on filtering data as it enters the system to determine which data to keep and which to discard.
+A. Stream processing*
+B. Feedback loop processing
+C. Scaling up
+D. Scaling out
+
+23. Big Data
+A. Relies on the use of structured data
+B. Captures data in whatever format it naturally exists*
+C. Imposes a structure on data when it is captured
+D. Relies on the use of unstructured data
+
+24. In the context of Big Data, _____ relates to differences in meaning.
+A. Viability
+B. Variety
+C. Variability*
+D. Veracity
+
+25. In the context of Big Data, _____ refers to the trustworthiness of a set of data.
+A. Veracity*
+B. Variability
+C. Viability
+D. Value
+
+26. Which of the following is NOT a key assumption of the Hadoop Distributed File System?
+A. Streaming access
+B. Write many, read-once*
+C. Fault-tolerance
+D. High volume
+
+27. When using an HDFS, the _____ node creates new files by communicating with the ____ node.
+A. Data, client
+B. Name, client
+C. Client, data
+D. Client, name*
+
+28. When using MapReduce, a _______ function takes a collection and data and sorts and filters it into a set of key-value pairs.
+A. Reduce
+B. Map*
+C. Data
+D. Block
+
+29. Two of the most popular applications to simplify the process of creating MapReduce jobs are Hive and
+A. Pig
+B. Impala*
+C. Flume
+D. Sqoop
+
+30. ______ uses statistical tools to answer questions about future data occurrences.
+A. Knowledge acquisition
+B. Predictive analytics*
+C. Data mining
+D. Explanatory analytics

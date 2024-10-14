@@ -1,0 +1,141 @@
+1. Database connectivity software is also known as database middleware because it interfaces between the application program and the database.
+A. True*
+B. False
+
+2. Among the three levels of compliance of the ODBC API standards, Level-1 provides support for procedural SQL and cursors.
+A. True
+B. False*
+
+3. A good API makes it easy to develop a program by providing all of the building blocks.
+A. True*
+B. False
+
+4. Whether you purchase online or by standing in line, the system-level transaction details are essentially the same, and they require the same basic database structures and relationships.
+A. True*
+B. False
+
+5. The benefits of the web as a data access platform arise from its cross-platform functionality and the simplicity of its interface.
+A. True*
+B. False
+
+6. When an end-user uses a web browser to dynamically query a database, the client browser actually requests a web page from the webserver.
+A. True*
+B. False
+
+7. The Common Gateway Interface (CGI) is a newer webserver interface standard that is much more efficient and faster than a dynamic link library (DLL).
+A. True
+B. False*
+
+8. An application programming interface (API) uses script files that perform specific functions based on the client’s parameters that are passed to the webserver.
+A. True
+B. False*
+
+9. The browser’s interpretation and presentation capabilities are sufficient to develop web-based applications.
+A. True
+B. False*
+
+10. The label “stateless system” indicates that, at any given time, there is an open communication line between the server and each client accessing it.
+A. True
+B. False*
+
+11. The only time the client and server computers communicate is when the client requests a page and the server sends the requested page to the client.
+A. True*
+B. False
+
+12. A plug-in is an external application that is automatically invoked by a web browser when needed.
+A. True*
+B. False
+
+13. A client-side extension is a program that interacts directly with the webserver to handle specific types of requests.
+A. True
+B. False*
+
+14. A document type definition (DTD) can be referenced by many Extensible Markup Language (XML) documents of the same type.
+A. True*
+B. False
+
+15. Cloud services allow any organization to quickly and economically add information technology services to its IT portfolio.
+A. True*
+B. False
+
+16. The initial costs of using cloud services tend to be significantly higher than building on-premise IT infrastructures.
+A. True
+B. False*
+
+17. HTML is designed to facilitate the extraction and manipulation of data from structured documents over the Internet.
+A. True
+B. False*
+
+18. Extending the webserver functionality implies that the webserver and the web-to-database middleware will properly communicate with each other.
+A. True*
+B. False
+
+19. The effects of bad database design, implementation, and management are magnified in an environment in which the number of transactions is less than one hundred.
+A. True
+B. False*
+
+20. _____ is a collection of technologies used to access any type of data source and manage the data through a common interface.
+A. DAO
+B. UDA*
+C. ODBC
+D. OLE-DB
+
+21. _____ is a higher-level, object-oriented application interface used to access remote database servers.
+A. ODBC
+B. UDA
+C. RDO*
+D. DAO
+
+22. In the ODBC architecture, a(n) _____ is in charge of managing all database connections.
+A. Driver manager*
+B. DLL
+C. ODBC API
+D. ODBC driver
+
+23. Based on Microsoft’s Component Object Model (COM), _____ is database middleware that adds object-oriented functionality for access to relational and non-relational data.
+A. MS-DB
+B. OLE-DB*
+C. COM-DB
+D. ODBC
+
+24. In the ADO.NET framework, the _____ object is the in-memory representation of the data in the database.
+A. DataSet
+B. DataReader
+C. Command
+D. DataAdapter*
+
+25. _____ is an object-oriented programming language developed by Sun Microsystems that runs on top of web browser software.
+A. VBScript
+B. Java
+C. JavaScript*
+D. Visual Basic
+
+26. One of the advantages of _____ over other middleware is that it requires no configuration on the client-side.
+A. OLE-DB
+B. ADO.NET
+C. ODBC
+D. JDBC*
+
+27. Which of the following is the first step in the exchange between a web browser and a database?
+A. The client’s web browser requests a page from a web server.*
+B. The HTML output is displayed on the client computer’s web browser.
+C. The middleware receives the query result and creates the HTML-formatted page.
+D. The web-to-database middleware uses ODBC to connect to the database.
+
+28. Which of the following is a well-defined web-server interface?
+A. Tiny Internet Interface
+B. Common Gateway Interface*
+C. Windows NT
+D. Command Line Interface
+
+29. A(n) _____ can use a shared connection to the database instead of creating a new one every time.
+A. HTTP GET request
+B. API*
+C. DLL
+D. Web browser
+
+30. What is the disadvantage of using an API web-server interface?
+A. An external program needs to run for each user request.
+B. It is slower than CGI scripts.
+C. An API error can bring down the entire web server.*
+D. It is inefficient because it uses DLLs.

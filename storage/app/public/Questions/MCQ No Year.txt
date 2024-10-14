@@ -1,0 +1,113 @@
+2. _______ has been enhanced with extensions that support OLAP type processing and data generation.
+[1] SQL
+[2] DBMS*
+[3] DBLC
+[4] SDLC
+
+3. Data stored in the company database must be protected from access by unauthorized users. Data measures include all of the following EXCEPT….
+[1] User authentication
+[2] Physical security
+[3] Data encryption
+[4] Top down authentication*
+
+4. The following is NOT a factor that influences the choice of database design strategies.
+[1] The company’s market knowledge*
+[2] The company’s structure
+[3] The company’s scope
+[4] The company’s management style
+
+5. What describes the extent to which modules are independent of one another?
+[1] Module cohesivity
+[2] Module coupling*
+[3] Module collaboration
+[4] Module connectivity
+
+6. What are the three main types of indexes?
+[1] Primary, Secondary, and Mixed index
+[2] Primary, Secondary, and Multi-level index*
+[3] Primary, Secondary, and Maintenance index
+[4] Primary, Secondary, and Mandatory index
+
+7. The ____ lock allows concurrent transactions to access the same row as long as they require the use of different fields within that row.
+[1] Table-level
+[2] Page-level
+[3] Row-level
+[4] Field-level*
+
+8. The following are the deadlock control techniques.
+[1] Prevention, avoidance and uniqueness
+[2] Prevention, detection and avoidance*
+[3] Prevention, isolation and detection
+[4] Prevention, time-stamping and avoidance
+
+9. Concurrency control with optimistic methods moves through which phases?
+[1] Read, validation and growing
+[2] Read, write and growing
+[3] Growing, write and shrinking
+[4] Validation, write and read*
+
+10. _____________design is the process of selecting the data storage and data access characteristics of the database.
+[1] Time
+[2] Network
+[3] Logical
+[4] Physical*
+
+11. In the ________________ stage, data modeling is used to create an abstract database structure that represents real-world objects in the most realistic way possible.
+[1] Physical design
+[2] ER verification
+[3] Conceptual design*
+[4] Logical design
+
+12. What is the first step in converting the ER model from the conceptual design phase into a set of relations?
+[1] Create Relations for Strong Entities*
+[2] Map multivalued attributes
+[3] Create Relations for Weak Entities
+[4] Map binary relations
+
+13. A ______ is often used on multidimensional data held in data warehouses.
+[1] Bitmap index*
+[2] B-tree
+[3] Pashing algorithm
+[4] Primary index
+
+14. In the following relation, what is the primary key? RENT_LINE (RENT_NUM*, RENT_LINE_NUM*, RENT_LINE_CHARGE, DATE,COPY_CODE*).
+[1] RENT_NUM
+[2] RENT_LINE_NUM
+[3] RENT_NUM and RENT_LINE_NUM*
+[4] RENT_NUM, RENT_LINE_NUM and COPY_CODE
+
+15. ______ is a brief and precise narrative description of a policy, procedure or principle within a specific organization’s environment.
+[1] End-user brief
+[2] Operational description
+[3] Conceptual model
+[4] Business rule*
+
+16. Indexes should NOT be used when_______
+[1] Tables have low sparsity*
+[2] Tables have high sparsity
+[3] Attributes appear often in the WHERE clause
+[4] Using joints
+
+17. If several concurrent transactions are executed over the same data set and the second transaction updates the database before the first transaction is finished, the ____ property is violated and the database is no longer consistent.
+[1] Atomicity
+[2] Consistency
+[3] Durability*
+[4] Isolation
+
+18. When a program is abnormally terminated, the equivalent of a ____ command occurs.
+[1] COMMIT
+[2] ROLLBACK*
+[3] QUIT
+[4] EXIT
+
+19. In _____ backup of the database, only the best modifications to the database are copied.
+[1] Full
+[2] Differential*
+[3] Incomplete
+[4] Complete
+
+20. All lock information is managed by a ____, which is responsible for assigning and policing the locks used by the transactions.
+[1] Scheduler
+[2] DBMS
+[3] Lock manager*
+[4] Locking agent

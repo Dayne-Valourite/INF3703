@@ -1,0 +1,119 @@
+1. Server-side extension ____.
+A. Provides its services to the Web server in a way that is totally transparent to the client browser*
+B. Must be downloaded and installed in the client computer
+C. Is only available for servers running Windows 2000 or greater
+D. Is another name for a Web application server
+
+2. Most e-commerce transactions take place between ____.
+A. Individuals
+B. Individuals and businesses
+C. Businesses and government
+D. Businesses*
+
+3. The XML ____ allows the definition of new tags to describe the data elements used in an XML document.
+A. Metalanguage*
+B. Document
+C. Database
+D. Script
+
+4. What is the first step in the exchange between a Web browser and a database?
+A. The HTML output is displayed on the client computer's Web browser.
+B. The middleware receives the query result and creates the HTML-formatted page.
+C. The client browser requests a page from a Web server.*
+D. The Web-to-database middleware uses ODBC to connect to the database.
+
+5. In the OLE-DB model, ____ are objects (applications or processes) that request and use data.
+A. Clients
+B. Database drivers
+C. Consumers*
+D. Providers
+
+6. MSIE 5.0 and later versions also provide data binding of XML data to HTML documents. This is accomplished with the ____ tag.
+A. < import >
+B. < enclose >
+C. < xml >*
+D. < dtd >
+
+7. Client-side extensions are available in various forms, such as ____.
+A. COBOL
+B. Java and JavaScript*
+C. Visual Basic .NET
+D. Visor.Net
+
+8. The Web browser's job is to ____ the HTML code that it receives from the Web server.
+A. Analyze
+B. Interpret*
+C. Transform
+D. Save
+
+9. ____ is embedded inside an HTML page and is activated by triggering events such as clicking on a link.
+A. A plug-in
+B. A browser
+C. Visual Basic code
+D. VBScript code*
+
+10. What must be contained in the first line of an XML document?
+A. Root element
+B. < xml > element
+C. Document declaration*
+D. Any element
+
+11. In a DTD file, a(n) ____ character means that the child element occurs zero or more times.
+A. #
+B. !
+C. * *
+D. ?
+
+12. ___ is an object-oriented programming language developed by Sun Microsystems that runs on top of Web browser software.
+A. Visual Basic
+B. JavaScript
+C. Java*
+D. VBScript
+
+13. Which of the following languages is typically used for CGI scripts?
+A. Perl*
+B. Java
+C. SQL
+D. HTML
+
+14. ____ describe the general mechanism that is used to extract and process data from one XML document and enable its transformation within another document.
+A. XML style sheets
+B. Extensible style language transformations (XSLT)*
+C. Document type definitions (DTD)
+D. XML schema
+
+15. Companies that intend to engage in e-commerce business transactions must develop and share ____.
+A. DTDs*
+B. Document types
+C. XML documents
+D. HTML documents
+
+16. ____ is a set of syntax rules (language) for extracting information from XML documents.
+A. SQL
+B. SQL/XML
+C. XML
+D. XQuery*
+
+17. _______________ define the presentation rules applied to XML elements.
+A. XSL style sheets*
+B. Extensible Style Language transformations
+C. Extensible Style Language specification
+D. XML data binding
+
+18. __________________ is a set of routines, protocols, and tools for building software applications on the web.
+A. Open Database Connectivity (ODBC)
+B. Call Level Interface (CLI)
+C. Application programming interface (API)*
+D. Data Access Objects (DAO)
+
+19. ________________ is a set of syntax rules (language) for extracting information from XML documents.
+A. XMLRoot
+B. XPath*
+C. SQL
+D. XQuery
+
+20. A simple e-commerce website can include:
+A. The core features that facilitate the sale of products and/or services
+B. Customer service support
+C. Web customer profiling
+D. All of the above*

@@ -1,0 +1,139 @@
+1. Although the DBMS is designed to recover a database to a previous consistent state when an interruption prevents the completion of a required set of transactions, the transactions themselves are defined by the end user or programmer and must be semantically correct.
+A. True
+B. False*
+
+2. The DBMS guarantees that the semantic meaning of a transaction truly represents the real-world event.
+A. True
+B. False*
+
+3. Atomicity indicates the permanence of the database's consistent state.
+A. True
+B. False*
+
+4. Serializability means that data used during the execution of a transaction cannot be used by a second transaction until the first one is completed.
+A. True
+B. False*
+
+5. Incomplete or improper transactions can have a devastating effect on database integrity.
+A. True*
+B. False
+
+6. Durability requires that all portions of the transaction must be treated as a single, logical unit of work in which all operations are applied and completed to produce a consistent database.
+A. True
+B. False*
+
+7. The multiuser DBMS must implement controls to ensure serializability and isolation of transactions, in addition to atomicity and durability, in order to guard the database's consistency and integrity.
+A. True*
+B. False
+
+8. The phenomenon of uncommitted data occurs when two transactions are executed concurrently and the first transaction is rolled back after the second transaction has already accessed the uncommitted data—thus violating the isolation property of transactions.
+A. True*
+B. False
+
+9. A scheduler facilitates data isolation to ensure that two transactions do not update the same data element at the same time.
+A. True*
+B. False
+
+10. A shared lock produces no conflict as long as all the concurrent transactions are read-write only.
+A. True
+B. False*
+
+11. A growing phase in a two-phase lock is when a transaction acquires all the required locks without locking any data.
+A. True
+B. False*
+
+12. Time stamping demands a lot of system resources because many transactions might have to be stopped, rescheduled, and stamped.
+A. True*
+B. False
+
+13. When using an optimistic approach, during the read phase, a transaction reads the database, executes the needed computations, and makes the updates to a private copy of the database values.
+A. True*
+B. False
+
+14. The serializable isolation level is the least restrictive level defined by the ANSI SQL standard.
+A. True
+B. False*
+
+15. The reason for the different levels of isolation is to increase transaction concurrency.
+A. True*
+B. False
+
+16. The transaction recovery write-ahead-log protocol ensures that transaction logs are always written before any database data are actually updated.
+A. True*
+B. False
+
+17. The last step in the write-through technique recovery procedure is to identify the last checkpoint in the transaction log.
+A. True
+B. False*
+
+18. An optimistic approach is based on the assumption that the majority of the database operations do not conflict.
+A. True*
+B. False
+
+19. Timestamps must only have the single property of uniqueness.
+A. True
+B. False*
+
+20. Most real-world database transactions are formed by only one database request.
+A. True
+B. False*
+
+21. Transaction is a ____ unit of work that must be either entirely completed or aborted.
+A. Practical
+B. Time
+C. Physical
+D. Logical*
+
+22. ____ requires that all operations of a transaction be completed.
+A. Durability
+B. Atomicity*
+C. Specificity
+D. Time stamping
+
+23. A single-user database system automatically ensures ____ of the database, because only one transaction is executed at a time.
+A. Atomicity and isolation
+B. Serializability and durability
+C. Atomicity and serializability
+D. Serializability and isolation*
+
+24. The ANSI standard that governs SQL database transactions provides transaction support with the SQL statements ____ and ROLLBACK.
+A. ASSIGN
+B. RETRIEVE
+C. COMMIT*
+D. UPDATE
+
+25. ANSI defines four events that signal the end of a transaction. Of the following events, which is defined by ANSI as being equivalent to a COMMIT?
+A. The program is abnormally terminated.
+B. The database is shut down for maintenance.
+C. The end of a program is successfully reached.*
+D. Five SQL statements are executed.
+
+26. The implicit beginning of a transaction is ____
+A. When the COMMIT command is issued
+B. When the first SQL statement is encountered*
+C. When the database is started
+D. When a table is accessed for the first time
+
+27. The information stored in the ____ is used by the DBMS for a recovery requirement triggered by a ROLLBACK statement, a program's abnormal termination, or a system failure such as a network discrepancy or a disk crash.
+A. Metadata
+B. Data dictionary
+C. Transaction log*
+D. Rollback manager
+
+28. One of the three most common data integrity and consistency problems is ____.
+A. User errors
+B. Disk failures
+C. Deadlocks
+D. Lost updates*
+
+29. As long as two transactions, T1 and T2, access ____ data, there is no conflict, and the order of execution is irrelevant to the final outcome.
+A. Unrelated*
+B. Common
+C. Shared
+D. Locked
+
+30. Lock ____ indicates the level of lock use.
+A. Serializability
+B. Growing
+C. Shrinking
+D. Granularity*

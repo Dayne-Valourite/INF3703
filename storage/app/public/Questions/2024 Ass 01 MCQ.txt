@@ -1,0 +1,233 @@
+Which kind of database tries to provide transactions that comply with ACIDS property over a highly distributed infrastructure?
+A. Rational database
+B. NoSQL database
+C. Distributed database
+D. NewSQL database*
+
+__________ is the process of collecting or retrieving disparate types of data from a variety of sources, many of which may be poorly organized or completely unstructured.
+A. Data optimization
+B. Data loading
+C. Data extraction*
+D. Data manipulation
+
+When setting optimizer hints, _____ instructs the optimizer to minimize the overall execution time, that is, to minimize the time it takes to return the total number of rows in the query result set. This hint is generally used for batch mode processes.
+A. INDEXES
+B. OPTIMIZATION_ROWS
+C. ALL_ROWS*
+D. FIRST_ROWS
+
+What is a business rule in terms of database design?
+A. It is the company's ethical code of conduct that database designers and software developers must adhere to.
+B. The concept or practice of 'business rule' is not applicable in database design.
+C. It is a brief, precise, and unambiguous description of a policy, procedure, or principle within an organization.*
+D. It is the company's policy on ethical principles for database programming.
+
+______ describe a NoSQL database that stores data in tagged documents in key-value pairs.
+A. Key-Value database
+B. Column-oriented database
+C. Document database*
+D. Graph database
+
+At which stage of the database design process do designers define fragmentation and allocation strategy?
+A. In all the stages
+B. Physical design
+C. Conceptual design*
+D. Logical design
+
+At which stage of the database design process do designers define database and query execution parameters?
+A. Logical design
+B. Physical design*
+C. Conceptual design
+D. DBMS selection design
+
+In the ADO.NET framework, the _____ is a disconnected, memory-resident representation of the database.
+A. Command
+B. DataSet*
+C. DataReader
+D. DataAdapter
+
+Which option is not performed at the conceptual stage of database design?
+A. Determine a suitable file organization*
+B. Distributed database design
+C. Data analysis and requirements
+D. Data model verification
+
+NoSQL database is developed to _______.
+A. Deal with the challenges of Big-Data*
+B. Enhance interaction with relational data
+C. Deal with problems of NewSQL
+D. Better manage organization relational data
+
+_________ is an advanced data definition language that is used to describe the structure of XML documents.
+A. XHTML schema
+B. XSD schema
+C. XML schema definition*
+D. XML schema
+
+A _________ is a symbol that can be used as a general substitute for other characters or commands.
+A. Wildcard character*
+B. Replacement character
+C. Substitute character
+D. Question mark character
+
+A ____________ is also known as a nested query or an inner query.
+A. Subquery*
+B. Inner query
+C. Integrated query*
+D. Inner join
+
+At which stage of the database life-cycle phase are DBMS software and application programs installed?
+A. Maintenance and evaluation
+B. Operation
+C. Database design
+D. Implementation and loading*
+
+The LIKE operator checks ________.
+A. Whether an attribute value matches a given string pattern.*
+B. Whether a subquery returns any rows
+C. Whether an attribute value matches any value within a value list
+D. Whether an attribute value is within range.
+
+Which of the following is not a stage in the database physical design?
+A. Define indexes, determine a suitable file organization, determine database security for users.
+B. Determine a suitable file organization, analyze data volume and database usage, and define user views.
+C. Define user views, determine database security for users, and analyze distributed databases.*
+D. Determine a suitable file organization, define user views, and determine database security for users.
+
+What is PHP?
+A. A Server-Side Scripting Language suited for Web Development*
+B. A SQL client connection link for connecting to the database
+C. A Server-Side Scripting Language suited for database design
+D. A Server-Side Scripting Language to code SQL in MySQL
+
+At which phase of the database life cycle are the process of defining data important?
+A. Operation phase
+B. Database design*
+C. Implementation phase
+D. Testing and evaluation phase
+
+_____ Minimizes the number of disk reads necessary to retrieve a row of data.
+A. Column-family database
+B. Column-centric storage
+C. Row-centric storage*
+D. Column-oriented database
+
+Which database design stage is hardware dependent?
+A. Database selection stage
+B. Physical design stage*
+C. Logical design stage
+D. Conceptual design stage
+
+Business Intelligence (BI) provides an organizational framework for ________________.
+A. Analyzing massive amounts of data to uncover hidden trends.*
+B. Collecting and storing operational data.*
+C. Analyzing decision support data to generate information.*
+D. Predicting future behavior and outcomes with a high degree of accuracy.*
+
+Having knowledge of the ______ helps database designers to define the required data structures, types and number of entities, as well as the physical size of the database.
+A. Database design constraints
+B. Database life cycle
+C. Database design scope*
+D. SQL programming language
+
+______ is the most important technique used in SQL performance optimization.
+A. Statistics
+B. Sparsity
+C. Indexes*
+D. Optimizer hints
+
+A single-user database ensures _____ and _____ of the database.
+A. Isolation; Serializability*
+B. Consistency; Isolation
+C. Durability; Serializability
+D. Atomicity; Consistency
+
+______ uses only a single-site database but shares the processing chores among several sites.
+A. Transaction processing
+B. Distributed processing*
+C. Fragmented processing
+D. Database processing
+
+Why is it important to select the most suitable file organization?
+A. To identify each module's transaction.
+B. To estimate the origin of module transactions.
+C. To carefully review the rough database design blueprint.
+D. To ensure effective storage and retrieval of data as quickly as possible.*
+
+The _____ object is the in-memory representation of the data in the database.
+A. DataReader
+B. DataAdapter
+C. DataSet*
+D. Command
+
+_____ and _____ of a transaction are guaranteed by the single-user database management system.
+A. Consistency; Atomicity
+B. Durability; Consistency
+C. Atomicity; Durability*
+D. Isolation; Durability
+
+The performance of a typical DBMS is constrained by three main factors: _______, available primary memory (RAM), and input/output (hard disk and network) throughput.
+A. CPU processing power*
+B. Disk access speed
+C. Available disk space
+D. The query language used
+
+The primary objective of database design is to______
+A. Create a normalized non-redundant conceptual, logical and physical database model.
+B. Create a redundant conceptual, logical, and physical database model
+C. Create a complete, normalized, non-redundant, and fully integrated conceptual, logical, and physical database model.*
+D. Create a normalized and redundant conceptual, logical, and physical database model.
+
+What is authentication?
+A. It is the process through which the DBMS verifies a person's identity by means of biometric access.
+B. It is the process through which the DBMS verifies that users choose a strong password to access the database.
+C. It is the process through which the DBMS verifies that only registered users may access the database.*
+D. It is the process through which SQL clients connect with the database.
+
+Which SQL command deletes an index?
+A. DELETE INDEX indexname;
+B. CLEAR INDEX indexname;
+C. DROP INDEX indexname;*
+D. REMOVE INDEX indexname;
+
+Which component of Business Intelligence (BI) is optimized for decision support and is generally represented by a data warehouse or a data mart?
+A. Data query and reporting
+B. Data store*
+C. Data visualization
+D. Data analytics
+
+At which stage of the physical design phase are database indexes defined?
+A. Stage 5
+B. Stage 2
+C. Stage 4*
+D. Stage 3
+
+Which optimization method would you recommend to a team of database designers if their intention is to determine the best strategy each time a query is executed?
+A. Statistical optimization
+B. Dynamic optimization*
+C. Rule-based optimization
+D. Static optimization
+
+The goal of database performance is to ______.
+A. Execute end-user queries as fast as possible*
+B. Ensure end-user applications generate queries
+C. Send the resulting query to the end-user
+D. Identify bad database performance
+
+Coordinating, monitoring, and allocating database administration resources is included in a DBA's _____ role.
+A. Technical
+B. Arbitration
+C. Operation
+D. Managerial*
+
+_____ allows you to break a single object into two or more segments or fragments.
+A. Process fragmentation
+B. Performance fragmentation
+C. Data fragmentation*
+D. Transaction fragmentation
+
+Which option refers to a group of database objects – such as tables and indexes – that are related to each other?
+A. Pluggable database
+B. Schema*
+C. Container database
+D. Data types

@@ -1,0 +1,161 @@
+1. A ____ is optimized for decision support and is generally represented by a data warehouse or a data mart.
+A. Data store*
+B. ETL tool
+C. Data visualization
+D. Data analysis tool
+
+2. ____ are in charge of presenting data to the end user in a variety of ways.
+A. Data stores
+B. ETL tools
+C. Data visualization tools*
+D. Data analysis tools
+
+3. ____ provide a unified, single point of entry for information distribution.
+A. Decision support systems
+B. Portals*
+C. Data warehouses
+D. Dashboards
+
+4. In business intelligence framework, data are captured from a production system and placed in ____ on a near real-time basis.
+A. Decision support system
+B. Portal
+C. Data warehouse*
+D. Dashboard
+
+5. ____ tools focus on the strategic and tactical use of information.
+A. Business
+B. Relational database management
+C. Business intelligence*
+D. Networking
+
+6. From a data analyst's point of view, decision support data differ from operational data in three main areas: time span, granularity, and ____.
+A. Usability
+B. Dimensionality*
+C. Transaction processing
+D. Sparsity
+
+7. Operational data are commonly stored in many tables, and the stored data represents information about a given ____ only.
+A. Transaction*
+B. Database
+C. Table
+D. Concept
+
+8. The ____ schema must support complex (non-normalized) data representations.
+A. Snowflake
+B. Online analytical processing
+C. Decision support database*
+D. Multidimensional database
+
+9. Data ____ implies that all business entities, data elements, data characteristics, and business metrics are described in the same way throughout the enterprise.
+A. Visualization
+B. Analytics
+C. Mining
+D. Integration*
+
+10. ____ can serve as a test vehicle for companies exploring the potential benefits of data warehouses.
+A. Data networks
+B. Data marts*
+C. Data cubes
+D. OLAPs
+
+11. Bill Inmon and Chuck Kelley created a set of 12 rules to define a(n) ____.
+A. Data warehouse*
+B. Multidimensional cube
+C. OLAP tool
+D. Star schema
+
+12. The basic star schema has four components: facts, ____, attributes, and attribute hierarchies.
+A. Keys
+B. Relationships
+C. Cubes
+D. Dimensions*
+
+13. Computed or derived facts, at run time, are sometimes called ____ to differentiate them from stored facts.
+A. Schemas
+B. Attributes
+C. Metrics*
+D. Dimensions
+
+14. In a star schema, attributes are often used to search, filter, or classify ____.
+A. Tables
+B. Sales
+C. Facts*
+D. Dimensions
+
+15. The attribute hierarchy provides a top-down data organization that is used for two main purposes: ____ and drill-down/roll-up data analysis.
+A. Decomposition
+B. De-normalization
+C. Normalization
+D. Aggregation*
+
+16. In star schema representation, a fact table is related to each dimension table in a ____ relationship.
+A. Many-to-one (M:1)*
+B. Many-to-many (M)
+C. One-to-many (1)
+D. One-to-one (1:1)
+
+17. Fact and dimension tables are related by ____ keys.
+A. Shared
+B. Primary
+C. Foreign*
+D. Linked
+
+18. In a typical star schema, each dimension record is related to thousands of ____ records.
+A. Attribute
+B. Fact*
+C. Key
+D. Primary
+
+19. A ____ schema is a type of star schema in which dimension tables can have their own dimension tables.
+A. Snowflake*
+B. Starflake
+C. Dimension
+D. Matrix
+
+20. ____ splits a table into subsets of rows or columns and places the subsets close to the client computer to improve data access time.
+A. Normalization
+B. Meta modeling
+C. Replication
+D. Partitioning*
+
+21. The reliance on ____ as the design methodology for relational databases is seen as a stumbling block to its use in OLAP systems.
+A. Normalization*
+B. Denormalization
+C. Star schema
+D. Multidimensional schema
+
+22. Decision support data tends to be non-normalized, ____, and pre-aggregated.
+A. Unique
+B. Duplicated*
+C. Optimized
+D. Sorted
+
+23. ____ extends SQL so that it can differentiate between access requirements for data warehouse data and operational data.
+A. ROLAP*
+B. OLAP
+C. DBMS
+D. BI
+
+24. A ____ index is based on 0 and 1 bits to represent a given condition.
+A. Logical
+B. Multidimensional
+C. Normal
+D. Bitmapped*
+
+25. Conceptually, MDBMS end users visualize the stored data as a three-dimensional cube known as a ____.
+A. Multi-cube
+B. Database cube
+C. Data cube*
+D. Hyper cube
+
+26. A multidimensional database management system (MDBMS) uses proprietary techniques to store data in ____ n-dimensional arrays.
+A. Table-like
+B. Matrix-like*
+C. Network-like
+D. Cube-like
+
+27. A ____ is a dynamic table that not only contains the SQL query command to generate the rows, but also stores the actual rows.
+A. SQL view
+B. Materialized view*
+C. Star schema
+D. Data cube

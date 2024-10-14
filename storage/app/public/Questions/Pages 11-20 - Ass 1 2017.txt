@@ -1,0 +1,119 @@
+1. What is considered in a database initial study regarding the organisation’s operating environment and mission?
+[1] Scope and boundaries definition
+[2] Objective definition
+[3] Company situation analysis*
+[4] Problem and constraints
+
+2. ______ is/are provided by the DBMS to check for access violations.
+[1] Data encryption
+[2] Audit trails*
+[3] User authentication
+[4] Access right
+
+3. The DBA’s _______ role is focused on personnel management and on interactions with the end-user community.
+[1] managerial*
+[2] technical
+[3] administrative
+[4] arbitration
+
+4. The DBA’s managerial role that resolves conflicts and problems is____.
+[1] data security, privacy and integrity
+[2] policies, procedures and standards
+[3] data backup and recovery
+[4] end-user support*
+
+5. The database design stage that assigns and validates constraints is the __.
+[1] conceptual design stage
+[2] logical design stage*
+[3] physical design stage
+[4] Perform in all three stages.
+
+6. The last stage of physical database design_______.
+[1] determines a suitable file organisation
+[2] determines database security for users*
+[3] defines indexes
+[4] defines user views
+
+7. ___ can be placed on any fields in the file that is unordered.
+[1] The primary index
+[2] The candidate index
+[3] The secondary index*
+[4] The multi-level index
+
+8. A consistent database state is____.
+[1] one in which all data integrity constraints are satisfied*
+[2] one in which all tables are normalised
+[3] one in which all SQL statements only update one table at a time
+[4] one in which all tables have foreign keys
+
+9. A transaction property which ensures that data used during the execution of a transaction cannot be used by a second transaction until the first transaction is completed is ____.
+[1] atomicity
+[2] durability
+[3] consistency
+[4] isolation*
+
+10. Which concurrent control problem occurs when a transaction calculates some aggregate functions over a set of data while other transactions are updating the data?
+[1] Lost update
+[2] Inconsistent retrievals*
+[3] Uncommitted data
+[4] Lock granularity
+
+11. The ____ table space is used for transaction-recovery purposes.
+[1] system data
+[2] table data
+[3] rollback segment*
+[4] temporary segment
+
+12. The fourth step in query formulation process is to_____.
+[1] determine what selection criteria are needed*
+[2] determine how to join the tables
+[3] identify the source table
+[4] identify what columns and computations are required
+
+13. ____ must be set large enough to permit as many requests to be serviced from the cache as possible.
+[1] The SQL cache
+[2] The data cache*
+[3] The optimiser cache
+[4] The sort cache
+
+14. The DDBMS component found in each computer that requests data is known as _____.
+[1] the network hardware and software
+[2] the transaction processor*
+[3] the communication media
+[4] the data processor
+
+15. ____ exists when the end user or programmer must specify both the fragment names and their locations.
+[1] Distribution transparency
+[2] Heterogeneity transparency
+[3] Fragmentation transparency
+[4] Location mapping transparency*
+
+16. The benefit of cloud infrastructure that makes it easy to increase the database capacity and/or change the underlying data model is known as _______.
+[1] cost effectiveness
+[2] the latest software
+[3] scalable architecture*
+[4] mobile access
+
+17. From the data analyst’s point of view, decision support system (DSS) data differ from operational data in the following ways except for_____.
+[1] query activity (frequency and complexity)*
+[2] timespan
+[3] granularity (level of organisation)
+[4] dimensionality
+
+18. Bill Inmon’s approach to data warehouse development is often referred to as _____.
+[1] an integrated approach
+[2] a top-down approach*
+[3] a centralised approach
+[4] a bottom-up approach
+
+19. Analysing massive amounts of data to uncover hidden trends, patterns and relationships; and forming computer models to simulate the findings and using the models to support business decision-making are performed by____.
+[1] a data warehouse
+[2] a data mart
+[3] data mining*
+[4] data schema
+
+20. Which database connectivity allows any Windows application to access relational data sources, using SQL via a standard application programming interface?
+[1] Open database connectivity (ODBC)*
+[2] Microsoft’s ActiveX Data Object (ADO.NET)
+[3] Native SQL connectivity (vendor provided)
+[4] Data access object (DAO)

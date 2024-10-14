@@ -1,0 +1,135 @@
+1. A distributed database management system (DDBMS) governs the storage and processing of logically related data over interconnected computer systems.
+A. True*
+B. False
+
+2. The Internet is the repository for distributed data.
+A. True*
+B. False
+
+3. Current distributed database management system (DDBMS) are subject to some problems, such as the complexity of management and control.
+A. True*
+B. False
+
+4. Distributed processing shares a database's logical processing among two or more physically independent sites that are connected through a network.
+A. True*
+B. False
+
+5. One of the advantages of a distributed database management system (DDBMS) is that the data is located near the site with the least demand.
+A. True
+B. False*
+
+6. One of the advantages of a distributed database management system (DDBMS) is growth facilitation.
+A. True*
+B. False
+
+7. Distributed processing does not require a distributed database, and a distributed database does not require distributed processing.
+A. True
+B. False*
+
+8. A database management system (DBMS) must have validation, transformation, and mapping functions, as well as other functions, in order to be classified as distributed.
+A. True*
+B. False
+
+9. A fully distributed database management system (DBMS) must perform all the functions of a centralized DBMS, and it must handle all necessary functions imposed by the distribution of data and processing.
+A. True*
+B. False
+
+10. The transaction processor (TP) is the software component found in each computer that requests data.
+A. True*
+B. False
+
+11. A distributed database management system (DDBMS) must be communications-media-dependent.
+A. True
+B. False*
+
+12. In the single-site processing, single-site data (SPSD) scenario, all processing must be done on the end user's side of the system.
+A. True
+B. False*
+
+13. Performance transparency ensures that the system finds the most cost-effective path to access remote data.
+A. True*
+B. False
+
+14. The level of transparency supported by the distributed database management system remains the same for all systems.
+A. True
+B. False*
+
+15. Distribution transparency is supported by a distributed data dictionary.
+A. True*
+B. False
+
+16. A remote transaction, composed of several requests, may access data at multiple sites.
+A. True
+B. False*
+
+17. Distributed database systems do not require complex mechanisms to manage transactions and ensure the database's consistency and integrity.
+A. True
+B. False*
+
+18. In order to manage distributed data, copies or parts of the database processing functions must be distributed to all data storage sites.
+A. True*
+B. False
+
+19. A distributed database management system (DDBMS) governs the storage and processing of logically related data over interconnected computer systems.
+A. True*
+B. False
+
+20. A database management system needs _____ to prepare the data for presentation to the end user or to an application program.
+A. Security
+B. Concurrency control
+C. Formatting*
+D. I/O interface
+
+21. In theory, a(n) _____ can be an independent centralized database management system with proper interfaces to support remote access from other independent database management systems in the network.
+A. Data processor*
+B. Transaction manager
+C. Transaction processor
+D. Application processor
+
+22. Under the _____ scenario, all record- and file-locking activities are performed at the end-user location.
+A. Multiple-site processing, multiple-site data
+B. Multiple-site processing, single-site data*
+C. Single-site processing, single-site data
+D. Single-site processing, multiple-site data
+
+24. _____ transparency allows a physically dispersed database to be managed as though it were centralized.
+A. Distribution*
+B. Performance
+C. Transaction
+D. Failure
+
+25. _____ transparency allows data to be updated simultaneously at several network sites.
+A. Performance
+B. Distribution
+C. Failure
+D. Transaction*
+
+26. _____ transparency allows the system to operate as if it were a centralized database management system.
+A. Failure
+B. Heterogeneity
+C. Distribution
+D. Performance*
+
+27. _____ transparency is the highest level of transparency. The end user or programmer does not need to know that a database is partitioned.
+A. Fragmentation*
+B. Performance
+C. Local mapping
+D. Location
+
+28. A _____ contains the description of the entire database as seen by the database administrator.
+A. Distributed data dictionary*
+B. Distributed global schema
+C. Distributed global dictionary
+D. Distributed data schema
+
+29. A _____ lets a single SQL statement access the data that are to be processed by a single remote database processor.
+A. Remote request*
+B. Remote transaction
+C. Distributed transaction
+D. Distributed request
+
+30. _____ fragmentation allows a user to break a single object into two or more segments, or fragments.
+A. Request
+B. Vertical
+C. Data*
+D. Horizontal

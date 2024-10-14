@@ -1,0 +1,139 @@
+1. The DBMS must provide tools that give each level of management a useful view of the data and support the required level of decision-making.
+A. True*
+B. False
+
+2. The DBA can use an audit log to automatically record a brief description of the database operations performed by the users.
+A. True*
+B. False
+
+3. When performing user access management, a DBA assigns passwords to each user at both the operating system and DBMS levels.
+A. True*
+B. False
+
+4. Protecting the security and integrity of a database is a function of authorization management.
+A. True*
+B. False
+
+5. In the context of database security measures, enforcing complex password policies will address the security vulnerabilities of the operating system component.
+A. True
+B. False*
+
+6. A security breach is a weakness in a system component that could be exploited to allow unauthorized access or cause service disruptions.
+A. True
+B. False*
+
+7. The maintenance activities of the DBA are an extension of the operational activities.
+A. True*
+B. False
+
+8. Training people to use the DBMS and its tools is not included in the responsibilities of a DBA.
+A. True
+B. False*
+
+9. System support activities cover all tasks directly related to the day-to-day operations of a DBMS and its applications.
+A. True*
+B. False
+
+10. The DBA function provides data modeling and design services to the end-user community, often through coordination with an application development group within the data-processing department.
+A. True*
+B. False
+
+11. The DBA is responsible for ensuring that the data are distributed to the right persons, at the right time, and in the right format.
+A. True*
+B. False
+
+12. The storage locations for multiple backups must include sites inside and outside the organization.
+A. True*
+B. False
+
+13. Backups must be clearly identified through detailed descriptions and date information, assuring that the correct backup is used to recover the database.
+A. True*
+B. False
+
+14. Concurrent backups take place while the user is working on the database.
+A. True*
+B. False
+
+15. Incremental backups produce a backup of all data.
+A. True
+B. False*
+
+16. A full backup, or database dump, produces a complete copy of the entire database.
+A. True*
+B. False
+
+17. Disaster management includes all the end-user activities designed to secure data availability before a physical disaster or a database integrity failure.
+A. True
+B. False*
+
+18. The security, privacy, and integrity of data in a database are of minimal concern to DBAs who manage current DBMS installations.
+A. True
+B. False*
+
+19. In the context of database administration, standards are written instructions that describe a series of steps to be followed during the performance of a given activity.
+A. True
+B. False*
+
+20. When an organization employs both a DA and a DBA, the DA's job has a technical organization, whereas the DBA's job has a managerial orientation.
+A. True
+B. False*
+
+21. In the context of the data-information-decision cycle, decisions made by high-level managers trigger actions in an organization's:
+A. Lower levels*
+B. Top levels
+C. Customer base
+D. Target markets
+
+22. When introducing a database into an organization, the database approach creates a more controlled and structured information flow and thus affects people, functions, and interactions. This leads to a(n) _____ impact of the new database system.
+A. Cultural*
+B. Operational
+C. Managerial
+D. Technical
+
+23. The person responsible for the control of the centralized and shared database is the database _____.
+A. Administrator*
+B. Programmer
+C. Analyst
+D. User
+
+24. Database administration operations are commonly defined and divided according to the phases of the _____.
+A. SDLC
+B. MRA
+C. DBLC*
+D. SLA
+
+25. A data administrator is also known as a(n) _____.
+A. Systems administrator
+B. Data security officer
+C. Information engineering officer
+D. Information resource manager*
+
+26. Coordinating, monitoring, and allocating database administration resources is included in a DBA's _____ role.
+A. Operative
+B. Managerial*
+C. Technical
+D. Arbitration
+
+27. _____ are more detailed and specific than policies and describe the minimum requirements of a given DBA activity.
+A. Procedures
+B. Guidelines
+C. Documentations
+D. Standards*
+
+28. “All users must have passwords” is an example of a _____.
+A. Rule
+B. Procedure
+C. Standard
+D. Policy*
+
+29. Instructions to create a password are an example of a _____.
+A. Procedure*
+B. Rule
+C. Policy
+D. Standard
+
+30. In the context of data backup and recovery, the activities of a _____ include the DBA operations that are classified as disaster management.
+A. Database programmer
+B. Data administrator
+C. Systems analyst
+D. Database security officer*

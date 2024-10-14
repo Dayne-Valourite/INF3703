@@ -1,0 +1,142 @@
+1. Business intelligence (BI) is a framework that allows a business to transform data into information, information into knowledge, and knowledge into wisdom.
+A. True*
+B. False
+
+2. A data store is used by data analysts to create queries that access the database.
+A. True
+B. False*
+
+3. Operational data and decision support data serve the same purpose.
+A. True
+B. False*
+
+4. Decision support data are a snapshot of the operational data at a given point in time.
+A. True*
+B. False
+
+5. Data warehouse data are organized and summarized by table, such as CUSTOMER and ADDRESS.
+A. True
+B. False*
+
+6. Multidimensional data.
+A. True
+B. False*
+
+7. The data warehouse development life cycle differs from classical systems development.
+A. True*
+B. False
+
+8. A data warehouse designer must define common business dimensions that will be used by a data analyst to narrow a search, group information, or describe attributes.
+A. True
+B. False*
+
+9. By default, the fact table’s primary key is always formed by combining the superkeys pointing to the dimension tables to which they are related.
+A. True
+B. False*
+
+10. Normalizing fact tables improves data access performance and saves data storage space.
+A. True
+B. False*
+
+11. Periodicity, usually expressed as current year only, previous years, or all years, provides information about the time span of the data stored in a table.
+A. True*
+B. False
+
+12. Multidimensional data analysis techniques include advanced computational functions.
+A. True*
+B. False
+
+13. To provide better performance, some OLAP systems merge data warehouse and data mart approaches by storing small extracts of the data warehouse at end-user workstations.
+A. True*
+B. False
+
+14. A star schema is designed to optimize data query operations rather than data update operations.
+A. True*
+B. False
+
+15. ROLAP and MOLAP vendors are working toward the integration of their respective solutions within a unified decision support framework.
+A. True*
+B. False
+
+16. The ROLLUP extension is used with the GROUP BY clause to generate aggregates by the listed columns, including the last one.
+A. True
+B. False*
+
+17. The CUBE extension enables you to get a grand total for each column listed in the expression.
+A. True
+B. False*
+
+18. Advanced OLAP features become more useful when access to them is kept simple.
+A. True*
+B. False
+
+19. Queries against operational data typically are broad in scope and high in complexity.
+A. True
+B. False*
+
+20. _____ splits a table into subsets of rows or columns and places the subsets close to the client computer to improve data access time.
+A. Normalization
+B. Partitioning*
+C. Replication
+D. Meta modeling
+
+21. Decision support data tend to be non-normalized, _____, and pre-aggregated.
+A. Sorted
+B. Unique
+C. Optimized
+D. Duplicated*
+
+22. _____ extends SQL so that it can differentiate between access requirements for data warehouse data and operational data.
+A. DBMS
+B. BI
+C. ROLAP*
+D. OLAP
+
+23. A _____ schema is a type of star schema in which dimension tables can have their own dimension tables.
+A. Dimension
+B. Matrix
+C. Starflake
+D. Snowflake*
+
+24. Fact and dimension tables are related by _____ keys.
+A. Shared
+B. Foreign
+C. Linked
+D. Primary*
+
+25. In star schema representation, a fact table is related to each dimension table in a _____ relationship.
+
+A. Many-to-many (M)
+B. Many-to-one (M:1)*
+C. One-to-many (1)
+D. One-to-one (1:1)
+
+26. The attribute hierarchy provides a top-down data organization that is used for two main purposes: _____ and drill-down/roll-up data analysis.
+A. De-normalization
+B. Decomposition
+C. Normalization
+D. Aggregation*
+
+27. Computed or derived facts, at run time, are sometimes called _____ to differentiate them from stored facts.
+A. Schemas
+B. Attributes
+C. Metrics
+D. Dimensions*
+
+28. _____ can serve as a test vehicle for companies exploring the potential benefits of data warehouses.
+A. OLAPs
+B. Data networks
+C. Data cubes
+D. Data marts*
+
+29. Data _____ implies that all business entities, data elements, data characteristics, and business metrics are described in the same way throughout the enterprise.
+A. Visualization
+B. Integration*
+C. Analytics
+D. Mining
+
+30. Operational data are commonly stored in many tables, and the stored data represent information about a given _____ only.
+A. Table
+B. Transaction*
+C. Concept
+D. Database

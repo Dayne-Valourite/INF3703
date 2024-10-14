@@ -1,0 +1,118 @@
+1. ____ is a measurement of the density of the data held in the data cube.
+A. Compactness
+B. Concentration
+C. Mass
+D. Sparsity*
+
+2. ____ are numeric measurements or values that represent a specific business aspect or activity.
+A. Tables
+B. Schemas
+C. Facts*
+D. Attributes
+
+3. When you ____ the data, you are aggregating the data to a higher level.
+A. Drill down
+B. Drill up
+C. Wrap up
+D. Roll up*
+
+4. The end user GUI might be a custom-made program or a plug-in module that is integrated with Lotus 123, Microsoft Excel, or other third-party data ____ and query tools.
+A. Analysis*
+B. Base
+C. Processing
+D. Integration
+
+5. Decision ____ is a methodology designed to extract information from data and to use such information as a basis for decision making.
+A. Management
+B. Support*
+C. Mining
+D. Analysis
+
+6. Running the OLAP GUI on client workstations and the OLAP engine on a shared computer results in a more practical ____ than running both on the same computer.
+A. Interface
+B. Processing system
+C. Architecture*
+D. Support system
+
+7. ____ is defined as "surroundings or atmosphere."
+A. Architecture
+B. Arrangement
+C. Relational data
+D. Environment*
+
+8. ____ makes a copy of a table and places it in a different location, to improve access time.
+A. Periodicity
+B. Aggregation
+C. Partitioning
+D. Replication*
+9. Data cubes can grow to n-number of dimensions, thus becoming ____.
+A. Memory cubes
+B. Dimensional cubes
+C. Hypercubes*
+D. Star data cubes
+
+10. Client/server ____ provide(s) a framework within which new systems can be designed, developed, and implemented.
+A. Interfaces
+B. Architecture*
+C. Processing
+D. Support
+
+11. During the ____ phase of implementing a data warehouse, the designer must, among other tasks, identify and interview key users, define the main subjects, and identify the operational data model.
+A. Initial data gathering*
+B. Design and mapping
+C. Loading and testing
+D. Rollout and feedback
+
+12. During the data ____ phase of data mining, the main data sets to be used by the data mining operation are identified and cleansed of any data impurities.
+A. Analysis
+B. Preparation*
+C. Classification
+D. Acquisition
+
+13. Multidimensional data analysis is also affected by how the database system handles ____.
+A. Main memory
+B. Hypercubes
+C. Warehouses
+D. Sparsity*
+
+14. Multidimensional online analytical processing extends OLAP functionality to multidimensional ____ management systems.
+A. Online
+B. Database*
+C. Processing
+D. Data
+
+15. Many of the OLAP interface features are "borrowed" from previous generations of data ____ tools.
+A. Module
+B. Processing
+C. Filtering
+D. Analysis*
+
+16. ____ are qualifying characteristics that provide additional perspectives to a given fact.
+A. Views
+B. Attributes
+C. Dimensions*
+D. Tact tables
+
+17. Using multidimensional jargon, the ability to focus on slices of the cube to perform a more detailed analysis is known as ____.
+A. Star cuts
+B. Slice and dice*
+C. Microscoping
+D. TPL processing
+
+18. Given the importance and universality of this dimension from a data analysis perspective, many vendors have added automatic ____ dimension management features to their data warehousing products.
+A. Space
+B. Time*
+C. Location
+D. Product
+
+19. A ____ view is a dynamic table that contains not only the SQL query command to generate the rows, but also stores the actual rows.
+A. Structural
+B. Materialized*
+C. CUBE
+D. Rollup
+
+20. MOLAP's premise is that ____ databases are best suited to manage, store, and analyze multidimensional data.
+A. Multidimensional*
+B. One-dimensional
+C. Two-dimensional
+D. Relational

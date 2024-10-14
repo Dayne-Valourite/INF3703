@@ -1,0 +1,119 @@
+1. The ____ is used as a temporary storage area for ORDER BY or GROUP BY operations, as well as for index-creation functions.
+A. Sort cache*
+B. SQL cache
+C. Data cache
+D. Optimizer mode
+
+2. The DBMS processes queries in three phases; the first is ____.
+A. Parsing*
+B. Analyzing
+C. Execution
+D. Fetching
+
+3. Generally, what will provide the best database client performance in terms of CPU speed?
+A. Single processor
+B. Multiple processors*
+C. The slowest processor
+D. The fastest processor
+
+4. Working with data in the data cache is many times faster than working with data in the data files because ____.
+A. There is no network access involved
+B. The DBMS doesn't have to wait for the hard disk to retrieve the data*
+C. The DBMS can optimize queries against the cache
+D. The data cache contains only a few records from each table
+
+5. When creating a database, in order to optimize performance, put high-usage tables in their own ____.
+A. Data caches
+B. Data spaces
+C. Table caches
+D. Table spaces*
+
+6. Database statistics are stored in the system catalog in specially designated ____.
+A. Indexes
+B. Rows
+C. Table spaces
+D. Tables*
+
+7. To optimize queries, use simple columns or literals as operands in a conditional expression and avoid the use of conditional expressions with ____ whenever possible.
+A. The WHERE clause
+B. Functions*
+C. The GROUP BY clause
+D. Indexes
+
+8. The architecture of a DBMS is represented by the ____ and structures used to manage a database.
+A. Tables
+B. Queries
+C. Processes*
+D. Logs
+
+9. The ____ is a shared, reserved memory area that stores the most recently accessed data blocks in RAM.
+A. Table space
+B. Extends
+C. Data cache*
+D. SQL cache
+
+10. Index ____ is a measure of how likely an index will be used in query processing.
+A. Statistics
+B. Connectivity
+C. Sparsity
+D. Selectivity*
+
+11. A(n) ____ is a logical grouping of several data files that store data with similar characteristics.
+A. Table space*
+B. Extends
+C. Data cache
+D. SQL cache
+
+12. The majority of current database performance problems are related to ____.
+A. Not having enough memory on the database server
+B. Poorly written SQL code*
+C. Improper use of table space
+D. Old statistics
+
+13. To view the access plan for a given SQL statement, use the following command: SELECT * FROM TABLE(____).
+A. DBMS_XPLAN.DISPLAY*
+B. PLAN_STAT
+C. STATISTICS
+D. ACCESS_PLAN
+
+14. The ____ DBMS process schedules the concurrent execution of SQL requests.
+A. Scheduler*
+B. Optimizer
+C. Listener
+D. User
+
+15. What is the goal of database performance?
+A. To return accurate results
+B. To prevent an inconsistent state
+C. To execute queries as fast as possible*
+D. To replace other forms of data storage
+
+16. In the SQL ____ phase of query processing, all I/O operations indicated in the access plan are executed.
+A. Parsing
+B. Execution*
+C. I/O
+D. Fetching
+
+17. Database ____ refers to a set of activities and procedures designed to reduce the response time of the database system.
+A. Integrity checking
+B. Locking
+C. Query handling
+D. Performance tuning*
+
+18. A DBA determines the initial size of the data files that make up the database; however, as required, the data files can automatically expand in predefined increments known as ____.
+A. Tables
+B. Extends*
+C. Segments
+D. Logs
+
+19. ____ facilitate searching, sorting, and using aggregate functions and even join operations.
+A. Indexes*
+B. Plans
+C. Queries
+D. Fetches
+
+20. To see the access plan used by the DBMS to execute your query, use the ____ statement.
+A. EXPLAIN PLAN*
+B. STATISTICS
+C. SHOW PLAN
+D. DEBUG

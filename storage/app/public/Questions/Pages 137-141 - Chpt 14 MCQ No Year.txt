@@ -1,0 +1,128 @@
+1. ODBC allows any ________ application to access relational data sources.
+A. B2B*
+
+2. E-commerce transactions--the sale of products or services--can take place between businesses. This is abbreviated as ________.
+A. B2B*
+
+3. Which of the following is a client-side extension?
+A. Java*
+
+4. The OLE-DB ________ object class is used to process commands to manipulate a data provider's data.
+A. Command*
+
+5. ________ are at the heart of e-commerce applications.
+A. Databases*
+
+6. What is a disadvantage of using an API Web server interface?
+A. An error can bring down the Web server*
+
+7. ________ is an object-oriented programming language developed by Sun Microsystems that runs on top of Web browser software.
+A. Java*
+
+8. In the OLE-DB model, ________ are objects (applications or processes) that request and use data.
+A. Consumers*
+
+9. ________ is a Web application server that can connect to and query a database from a Web page.
+A. ColdFusion*
+
+10. XML is derived from ________, an international standard for the publication and distribution of highly complex technical documents.
+A. SGML*
+
+11. The Web is said to be a ________ system.
+A. Stateless*
+
+12. ________ describe the general mechanism that is used to extract and process data from one XML document and enable its transformation within another document.
+A. Extensible Style Language Transformations (XSLT)*
+
+13. Which of the following is one of the benefits of rapid development at manageable costs for Internet technologies?
+A. Availability of multiple development tools*
+
+14. Microsoft's alternative to Java is ________.
+A. ActiveX*
+
+15. To create a DSN, you need to provide an ODBC driver, a DSN name, and ________.
+A. ODBC driver parameters*
+
+16. A plug-in is ________.
+A. Operating system specific*
+
+17. In a DTD file, the ________ keyword represents the actual text data.
+A. #PCDATA*
+
+18. What is one of the benefits of hardware and software independence of Internet technologies?
+A. Savings in equipment and software acquisition*
+
+19. The Microsoft ________ framework is a component-based platform for developing distributed, heterogeneous, interoperable applications aimed at manipulating any type of data over any network under any operating system and programming language.
+A. .NET*
+
+20. The XSL specification is divided into two parts: Extensible Style Language Transformations (XSLT) AND _____________.
+A. XSL style sheets*
+
+21. ________ is derived from Microsoft Visual Basic and is used to extend browser functionality.
+A. VBScript*
+
+22. Client-side extensions are available in various forms, such as ________.
+A. Java and JavaScript*
+
+23. The Web browser's job is to ________ the HTML code that it receives from the Web server.
+A. Interpret*
+
+24. How many well-defined Web server interfaces are there currently?
+A. Two*
+
+25. ________ is a specification for writing programs that will run inside the Microsoft client browser (Internet Explorer).
+A. ActiveX*
+
+26. The Web browser is the application software ________, that lets end users browse the Web.
+A. In the client computer*
+
+27. A ________ is an external application that is automatically invoked by the browser when needed.
+A. Plug-in*
+
+28. Which one of the following is a well-defined Web server interface?
+A. Common Gateway Interface*
+
+29. If using an Oracle database, your Web-to-database middleware can connect to the database via ________.
+A. SQLNet*
+
+30. ________ is embedded inside an HTML page and is activated by triggering events such as clicking on a link.
+A. VBScript code*
+
+31. Most e-commerce transactions take place between ________.
+A. Businesses*
+
+32. Which language is typically used for CGI scripts?
+A. Perl*
+
+33. The ________ is an advanced data definition language that is used to describe the structure (elements, data types, relationship types, ranges, and default values) of XML data documents.
+A. XML schema*
+
+34. What is the first step in the exchange between a Web browser and a database?
+A. The client browser requests a page from a Web server*
+
+35. ODBC, OLE-DB, and ADO.NET form the backbone of Microsoft's ________ architecture.
+A. Universal Data Access (UDA)*
+
+36. You can think of the ________ as an XML-based, in-memory database that represents the persistent data stored in the data source.
+A. DataSet*
+
+37. The XML ________ allows the definition of new tags to describe the data elements used in an XML document.
+A. Metalanguage*
+
+38. Companies that intend to engage in e-commerce business transactions must develop and share ________.
+A. DTDs*
+
+39. In a DTD file, a(n) ________ character means that the child element occurs zero or more times.
+A. * (asterisk)*
+
+40. What is another name for a database server-side extension?
+A. Web-to-database middleware*
+
+41. HTML ________ describe how something looks on the Web page, such as bold type or heading style, and often come in pairs to start and end formatting features.
+A. Tags*
+
+42. The World Wide Web Consortium (W3C) published the first ________ 1.0 standard definition in 1998.
+A. XML*
+
+43. A server-side extension ________.
+A. Provides its services to the Web server in a way that is totally transparent to the client browser*

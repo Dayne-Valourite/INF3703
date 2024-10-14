@@ -1,0 +1,139 @@
+1. Good database performance is easy to evaluate.
+A. True
+B. False*
+
+2. One of the main functions of a database system is to provide timely answers to end users.
+A. True*
+B. False
+
+3. Good database performance starts with good database design.
+A. True*
+B. False
+
+4. DBMS implementations are typically similar in complexity to two-tier client/server configurations.
+A. True
+B. False*
+
+5. A data file can contain rows from a single table alone.
+A. True
+B. False*
+
+6. The data cache caches system catalog data and the contents of the indexes.
+A. True*
+B. False
+
+7. The SQL cache stores the end-user written SQL.
+A. True
+B. False*
+
+8. To work with data, the DBMS must retrieve the data from permanent storage and place it in RAM.
+A. True*
+B. False
+
+9. Working with data in the data cache is many times faster than working with data in the data files.
+A. True*
+B. False
+
+10. Fully equivalent means that the optimized query results are always the same as the original query.
+A. True*
+B. False
+
+11. The SQL execution activities are performed by the query optimizer.
+A. True
+B. False*
+
+12. All transaction management commands are processed during the parsing and execution phases of query processing.
+A. True*
+B. False
+
+13. A cost-based optimizer uses a set of pre-set rules and points to determine the best approach to execute a query.
+A. True
+B. False*
+
+14. The primary factor in determining the most efficient access plan is the I/O cost.
+A. True*
+B. False
+
+15. Most current-generation relational DBMSs perform automatic query optimization at the client end.
+A. True
+B. False*
+
+16. Indexes are very useful in small tables or tables with low sparsity.
+A. True
+B. False*
+
+17. Character field comparisons are faster than numeric, date, and NULL comparisons.
+A. True
+B. False*
+
+18. DBMS performance tuning includes global tasks such as managing the DBMS processes in primary memory and managing the structures in physical storage.
+A. True*
+B. False
+
+19. In-memory database systems are optimized to store small portions of the database in disk storage alone.
+A. True
+B. False*
+
+20. Maximizing disk contention is one of the general recommendations for the physical storage of databases.
+A. True
+B. False*
+
+21. On the client side, the objective is to generate an SQL query that returns a correct answer in the least amount of time, using a minimum amount of resources at the server end. The activities required to achieve this goal are commonly referred to as _____ tuning.
+A. Client SQL
+B. Database SQL
+C. SQL performance*
+D. DBMS performance
+
+22. On the server side, the database environment must be properly configured to respond to clients' requests in the fastest way possible, while making optimum use of existing resources. The activities required to achieve this goal are commonly referred to as _____ tuning.
+A. Client and server
+B. Database SQL
+C. SQL performance
+D. DBMS performance*
+
+23. When moving data from permanent storage to RAM, an I/O disk operation retrieves:
+A. An entire table
+B. An entire physical disk block*
+C. Only the row containing the attribute requested
+D. Only the attribute which was requested
+
+24. A DBA determines the initial size of the data files that make up the database; however, as required, the data files can automatically expand in predefined increments known as _____.
+A. Procedure cache
+B. Buffer cache
+C. Supplements
+D. Extends*
+
+25. A(n) _____ is a logical grouping of several data files that store data with similar characteristics.
+A. Procedure cache
+B. Table space*
+C. Data cache
+D. Listener
+
+26. A system table space, a user data table space, an index table space, and a temporary table space are examples of _____.
+A. Procedure caches
+B. File groups*
+C. Data caches
+D. Operation modes
+
+27. The data cache is where the data read from the database data files are stored _____ the data have been read or _____ the data are written to the database data files.
+A. After; before*
+B. After; after
+C. Before; before
+D. Before; after
+
+28. The _____ process analyzes SQL queries and finds the most efficient way to access data.
+A. Optimizer*
+B. Scheduler
+C. Listener
+D. User
+
+29. Automatic query optimization means that the:
+A. Optimization takes place at compilation time by the programmer
+B. DBMS finds the most cost-effective access path without user intervention*
+C. Optimization process is scheduled and selected by the end-user or programmer
+D. Database access strategy is defined when the program is executed
+
+30. Which of the following is the first step of query processing at the DBMS server end?
+A. Executing
+B. Parsing*
+C. Fetching
+D. Delivering

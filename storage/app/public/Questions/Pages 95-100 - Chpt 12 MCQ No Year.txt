@@ -1,0 +1,113 @@
+1. ____ ensures that once transaction changes are done, they cannot be undone or lost, even in the event of a system failure.
+A. Atomicity
+B. Consistency
+C. Durability*
+D. Isolation
+
+2. Deadlocks are possible only when one of the transactions wants to obtain a(n) ____ lock on a data item.
+A. Binary
+B. Exclusive*
+C. Shared
+D. Complete
+
+3. If several concurrent transactions are executed over the same data set and the second transaction updates the database before the first transaction is finished, the ____ property is violated and the database is no longer consistent.
+A. Atomicity
+B. Consistency*
+C. Isolation
+D. Durability
+
+4. A DBMS uses a transaction ____ to keep track of all transactions that update the database.
+A. Log*
+B. Table
+C. Block
+D. Statement
+
+5. The Oracle RDBMS uses the ____ statement to declare a new transaction start and its properties.
+A. BEGIN
+B. SET TRANSACTION*
+C. BEGIN TRANSACTION
+D. COMMIT
+
+6. When a program is abnormally terminated, the equivalent of a ____ command occurs.
+A. COMMIT
+B. ROLLBACK*
+C. QUIT
+D. EXIT
+
+7. When the recovery procedure uses ____, the database is immediately updated by transaction operations during the transaction's execution, even before the transaction reaches its commit point.
+A. Write-through*
+B. Deferred write
+C. Immediate write
+D. Unbuffered
+
+8. In a(n) ____ backup of the database, only the last modifications to the database are copied.
+A. Full
+B. Incomplete
+C. Differential*
+D. Transaction log
+
+9. Although the ____ locking approach improves the availability of data, its management requires high overhead.
+A. Database-level
+B. Table-level
+C. Page-level
+D. Row-level*
+
+10. A(n) ____ lock exists when concurrent transactions are granted Read access on the basis of a common lock.
+A. Binary
+B. Field-level
+C. Shared*
+D. Exclusive
+
+11. A ____ database state is one in which all data integrity constraints are satisfied.
+A. Fixed
+B. Complete
+C. Consistent*
+D. Secure
+
+12. The ____ statement is used to end a successful transaction.
+A. COMMIT*
+B. DONE
+C. END
+D. QUIT
+
+13. ____ means that the data used during the execution of a transaction cannot be used by a second transaction until the first one is completed.
+A. Atomicity
+B. Consistency
+C. Durability
+D. Isolation*
+
+14. The three basic techniques to control deadlocks are: deadlock ____, deadlock detection, and deadlock avoidance.
+A. Prevention*
+B. Prohibition
+C. Rollback
+D. Commits
+
+15. All transactions are controlled and executed by the DBMS (subject to some limitations) to guarantee database ____.
+A. Integrity
+B. Uniqueness
+C. Consistency*
+D. Design
+
+16. In a ____ lock, the DBMS will lock an entire disk page.
+A. Database-level
+B. Table-level
+C. Page-level*
+D. Row-level
+
+17. All lock information is managed by a ____, which is responsible for assigning and policing the locks used by the transactions.
+A. Scheduler
+B. DBMS
+C. Lock manager*
+D. Locking agent
+
+18. According to the ANSI SQL standard, when does a transaction begin?
+A. With use of the START command
+B. When the first SQL statement is encountered*
+C. With the BEGIN command
+D. With the BEGIN TRANSACTION command
+
+19. The ____ lock allows concurrent transactions to access the same row as long as they require the use of different fields within that row.
+A. Table-level
+B. Page-level
+C. Row-level
+D. Field-level*

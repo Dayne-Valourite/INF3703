@@ -1,0 +1,1934 @@
+At the level of middle management, the database must be able to _____.
+1. represent and support the company operations as closely as possible
+2. provide access to external and internal data to identify
+3. produce query results within specified performance levels
+4. deliver the data necessary for tactical decisions and planning *
+
+At the level of middle management, the database must be able to provide _____.
+1. data necessary for tactical decisions and planning *
+2. feedback to monitor whether a company is achieving its goals
+3. access to external and internal data to identify growth opportunities
+4. frameworks for defining and enforcing organizational policies
+
+At the middle management level, the database must be able to______.
+1. Improve the likelihood of a positive return on investment
+2. Monitor and control the allocation and use of company resource *
+3. Provide access to external and internal data
+4. Provide feedback to monitor whether the company is achieving its goals
+
+At the operational management level, the database must be able to ______.
+1. Produce query results within specific performance levels *
+2. Ensure the security evaluation
+3. Monitor and control the allocation and use of company resource
+4. Improve the likelihood of a positive return on investment
+
+At the top management level, the database must be able to______.
+1. Enhance the company’s short-term operations
+2. Ensure the security evaluation
+3. Monitor and control the allocation and use of company resource
+4. Improve the likelihood of a positive return on investment *
+
+At which phase of data mining process do data mining tool select the appropriate modelling algorithms?
+1. Prognosis
+2. Data preparation
+3. Knowledge acquisition *
+4. Data analysis and classification
+
+At which phase of query processing are data blocks retrieved from data files?
+1. Parsing
+2. Execution *
+3. In all the phases.
+4. Fetching
+
+At which phase of the data mining process are the main data sets used for data mining operation identified?
+1. Data analysis and classification
+2. Knowledge acquisition
+3. Prognosis
+4. Data preparation *
+
+Before data is stored in the data warehouse, it is______.
+1. c, b and a
+2. a, c, & b
+3. a, b, & c
+4. b, c, & a *
+
+Bill Inmon’s approach to data warehouse development is often referred to as _____.
+1. a centralised approach
+2. a top-down approach *
+3. a bottom-up approach
+4. an integrated approach
+
+Bitmap indexes tend to use less space than a _____ because they use bits instead of bytes to store their data.
+1. reverse index
+2. hash index
+3. B-tree index *
+4. sparse index
+
+Business Intelligence (BI) provides an organisational framework for the following EXCEPT.
+1. Predicting future behaviour and outcomes with a high degree of accuracy.
+2. Analysing massive amount of data to uncover hidden trends *
+3. Collecting and storing operational data.
+4. Analysing decision support data to generate information.
+
+Computed or derived facts, at run time, are sometimes called _____ to differentiate them from stored facts.
+1. attributes
+2. metrics *
+3. schemas
+4. dimensions
+
+Conceptually, MDBMS end users visualize the stored data as a three-dimensional cube known as a _____.
+1. database cube
+2. hyper cube
+3. multi-cube
+4. data cube *
+
+Concurrency control helps to guarantee ____ and ____ in a database system.
+1. Confidentiality and integrity
+2. Availability and consistency
+3. Consistency and confidentiality
+4. Integrity and consistency *
+
+Concurrency control is important in a distributed database because of the following except _____.
+1. multi-site and multiple-process operations create integrity problem
+2. multi-site and multiple-process operations create availability problem *
+3. multi-site and multiple-process operations create consistency problem
+4. multi-site and multiple-process operations create both consistency and integrity problem
+
+Concurrency control with optimistic methods moves through which phases.
+1. Read, validation, and growing
+2. Read, write, and execute
+3. Read, write, and validate *
+4. Read, write, and shrinking
+
+Consider for example, that the location dimension table contains transitive dependencies between region, state, and city, you can revise these relationships to the third normal form (3NF). Which star schema performance improvement technique would you achieve by doing this?
+1. Denormalized
+2. Normalized *
+3. Create and maintain multiple fact table
+4. Table partitioning and replication
+
+Coordinating, monitoring, and allocating database administration resources is included in a DBA's _____ role.
+1. operative
+2. managerial *
+3. arbitration
+4. technical
+
+Data _____ implies that all business entities, data elements, data characteristics, and business metrics are described in the same way throughout the enterprise.
+1. mining
+2. analytics
+3. integration *
+4. visualization
+
+Data definition is an essential part of ______ database life circle’s phase.
+1. Two *
+2. One
+3. Four
+4. Three
+
+Data stored in the company database must be protected from access by unauthorized users. Data measures include all of the following EXCEPT.
+1. Top down authentication *
+2. User authentication
+3. Physical security
+4. Data encryption
+
+Data visualization has its roots in the _____ sciences, which focus on how the human brain receives, interprets, organizes, and processes information.
+1. health
+2. developmental
+3. cognitive *
+4. social
+
+Database administration operations are commonly defined and divided according to the phases of the _____.
+1. MRA
+2. DBLC *
+3. SDLC
+4. SLA
+
+Database administrator always works with application programmers to ensure ______ of database design and transaction.
+1. 3 and 4 *
+2. 1, 2, 3 and 4
+3. 2 and 3
+4. 1, 2 and 3
+
+Database management system (DBMS) enforces data integrity through a proper use of _____ and ____ rules.
+1. Primary key
+2. Foreign key
+3. Composite key
+4. Candidate key
+
+1. 1 and 3
+2. 2 and 4
+3. 1 and 2 *
+4. 3 and 4
+
+Database recovery techniques are based on the ______ transaction property.
+1. Consistency
+2. Atomicity
+3. Isolation *
+4. Durability
+
+Database software selection and database security and integrity are examples of.
+1. Standards *
+2. Security
+3. Procedures
+4. Policies
+
+DBMS vendors can publish ____ to facilitate data exchanges and the creation of data views from multiple applications for multiple industries.
+1. Meta Dictionaries *
+2. Data Dictionaries
+3. XML Databases
+4. Web Databases
+
+Decision on the appropriate use of index demands a knowledge of  ­­­­­_______?
+1. Statists
+2. Sparsity *
+3. Extend
+4. Optimization.
+
+Decision support data tends to be non-normalized, _____, and pre-aggregated.
+1. unique
+2. optimized
+3. sorted
+4. duplicated *
+
+Dirty data means data that is NOT ____? 
+1. Available
+2. Consistent *
+3. Confidential
+4. Partitioned
+
+Distributed processing does not require:
+1. multiple sites to share processing chores.
+2. interconnected networks of components.
+3. an existing distributed database. *
+4. processing function distribution to all storage sites.
+
+During _____ data allocation, the database is divided into two or more disjointed parts (fragments) and stored at two or more sites.
+1. centralized
+2. mixed
+3. partitioned *
+4. replicated
+
+During the ____ phase, the DBMS retrieves the data and sends the result set back to the client.
+1. execute
+2. fetch *
+3. parse
+4. process
+
+Each time an end-user clicks a hyperlink, the browser generates a[n] _____ request that is sent to the designated web server using the TCP/IP Internet protocol.
+1. XML
+2. HTTP GET *
+3. API
+4. HTML
+
+Effective business rules are designed and shared with ______ of the organisation.
+1. Top management
+2. All level of management
+3. Middle management
+4. Every person *
+
+Enforcing and ensuring the security and privacy of data in the database are activities that are performed at the ______.
+1. Top management
+2. Middle management *
+3. Operational management
+4. At all level of management
+
+Every XML document has a _____.
+1. base tag
+2. schema
+3. root element *
+4. DTD
+
+Extensible Markup Language (XML) is considered important because.
+1. It offers a replacement for HTML
+2. It assists with the exchange of structured documents *
+3. It is the rote element of Document Type Definition (DTD)
+4. It enables ubiquitous access for configurable computer resource
+
+For your assignment 02, you designed a database for a company of your choice. Assuming the database you designed will later be implemented in the near future. As a Database administrator who designed the database, you considered it part of your function to work with application programmers and end-users to educate them on the required standard and procedures for data quality, access, and manipulation. Doing this will enables you to achieve _____role/s of DBA.
+1. None of the DBA roles
+2. Both technical and managerial roles *
+3. Managerial role
+4. Technical role
+
+From a data analyst’s point of view, decision support data differ from operational data in three main areas: time span, granularity, and _____.
+1. usability
+2. sparsity
+3. dimensionality *
+4. transaction processing
+
+From database designer’s point of view, which of the following is not true regarding operational or decision support data?
+1. Operational data is store by many tables
+2. Decision support data does not include details of each operational transaction
+3. Decision support data is not subject to relational transaction
+4.
+
+ Operational data is characterized by large amount of data *
+
+From the data analyst’s point of view, decision support system (DSS) data differ from operational data in the following ways except for_____.
+1. query activity (frequency and complexity) *
+2. timespan
+3. granularity (level of organisation)
+4. dimensionality
+
+From the performance point of view, _____ databases eliminate disk access bottlenecks.
+1. in-memory *
+2. distributed
+3. index-organized
+4. RAID
+
+Having interaction with DBMS vendors or establishing good relationships with software providers is an example of an activities performed under ____ area of DBA’s technical role.
+1. Testing and evaluation of databases and applications
+2. Maintaining DBMS, utilities, and applications
+3. Training and supporting users *
+4. Operation of DBMS, utilities, and applications
+
+How are database statistics obtained?  
+1. Neither manually and automatically
+2. Manually
+3. Both manually and automatically *
+4. Automatically
+
+If a company has 300,000 product sales records, they wind up summarizing at least 300,000 rows. Although such summaries may not be a very taxing operation for a DBMS initially, a comparison of ten or twenty years' worth of sales is likely to start bogging the system down. In such cases, it will be useful to have special aggregate tables, which are _______.
+1. Denormalized *
+2. Partitioned and replication
+3. Create and can maintain multiple fact table
+4. Normalized
+
+If several concurrent transactions are executed over the same data set and the second transaction updates the database before the first transaction is finished, the ____ property is violated and the database is no longer consistent.
+1. Atomicity
+2. Consistency
+3. Isolation *
+4. Durability
+
+If there is no index, the DBMS will perform a _____ scan.
+1. full table *
+2. loop
+3. range
+4. row ID table access
+
+Improved decision making is the main benefit of Business Intelligence (BI). Another benefit BI provides include
+1. Fast data access
+2. Fast data processing
+3. Improved organisation performance *
+4. Improved communication
+
+A distributed request allows us to reference data from several different data processor (DP) sites. Since each request can access data from more than one DP site, a transaction can access several DP sites. Which type of distributed processing is required to execute a distributed request?
+1. Replicated distributed database processing  
+2. Fragmented distributed database processing  
+3. Fully distributed database processing *  
+4. Partial distributed database processing  
+
+A fully distributed database management system must perform all the functions of a centralized DBMS EXCEPT?
+1. Searching  
+2. Reading *  
+3. Validating  
+4. Locating  
+
+A multi-user database allows for multiple accesses and updates to the database. ______ is the transaction property that is particularly useful for this environment.
+1. Durability  
+2. Consistency  
+3. Isolation *  
+4. Atomicity  
+
+A programmer using his/her already existing SQL skills to manipulate the data in the company’s databases is an example of a company leveraging its existing investment in technology and personnel training. ____ is the database middleware that takes this advantage.
+1. ActiveX Data Objects (ADO.NET)  
+2. Java Database Connectivity (JDBC) *  
+3. Object Linking and Embedding for Database (OLE-DB)  
+4. Embedding for Database (DLE-DB)  
+
+A single-user database system automatically ensures_____ of the database, because only one transaction is executed at a time.
+1. atomicity and serializability  
+2. atomicity and isolation  
+3. serializability and isolation *  
+4. serializability and durability  
+
+A South African Story book publishing company publishes one local story for Four Cities namely: Cape Town (CT), Pretoria (PR), Johannesburg (JO) and Polokwane (PO). The company has approximately 110,000 CUSTOMER (subscribers) situated across the four cities. Each month an annual subscription INVOICE is printed and sent to all consumers whose subscription is due for renewal. The INVOICE entity contains a REGION attribute to indicate the Customer’s city. CUSTOMER (CUS_NUM, CUS_NAME, CUS_ADDRESS, CUS_CITY, CUS_STATE, CUS_CODE, CUS_SUBSDATE) INVOICE (INV_NUM, INV_REGION, CUS_NUM, INV_DATE, INV_TOTAL) The company made a decision to assign subscription management to the individual cities (city-based subscription) with each city managing their own subscription sites (customers and invoice data). Management at the company headquarter will have access to customer and invoice data to enable them to generate annual reports and issue ad hoc queries. What type of fragmentation would be needed for each table in the scenario?
+1. Some part of the database must be more vertically partitioned than horizontally  
+2. The database must be equally horizontally and vertically partitioned  
+3. The database must be horizontally partitioned *  
+4. The database must be vertically partitioned  
+
+The Company made a decision to assign subscription management to the individual cities (city-based subscription) with each city managing their own subscription sites (customers and invoice data). Management at the company headquarters will have access to customer and invoice data to enable them to generate annual reports and issue ad hoc queries. What would your recommendation be for the publishing company on the type and characteristics of database system they require?
+1. The company requires Centralised systems with distributed database capabilities  
+2. The company requires distributed systems with centralised database capabilities  
+3. The company requires distributed systems with distributed database capabilities *  
+4. The company requires centralised systems with centralised database capabilities  
+
+The Company made a decision to assign subscription management to the individual cities (city-based subscription) with each city managing their own subscription sites (customers and invoice data). Management at the company’s headquarters will have access to customer and invoice data to enable them to generate annual reports and issue ad hoc queries. Which level of data and processing distribution would be applied for their database?
+1. Multiple-Site Processing, Multiple-Site Data *  
+2. Single-Site Processing, Single-Site Data  
+3. Single-Site Process, Multiple-Site Data  
+4. Multiple-Site Processing, Single-Site Data  
+
+Since the company headquarters would like to have access to customer and invoice data to enable them to generate annual reports and issue ad hoc queries, they have proposed that cities' DBMSs be combined under a common schema. Indicate the database transparency feature the company will achieve by doing this.
+1. Heterogeneity transparency *  
+2. Performance transparency  
+3. Transaction transparency  
+4. Distribution transparency  
+
+In the given options what do you consider as the best advantages of assigning subscription management to the individual cities?
+1. Low initial cost of entry  
+2. Faster data access *  
+3. High reliability and performance  
+4. Better managed infrastructure  
+
+A system table space, a user data table space, an index table space, and a temporary table space are examples of _____.
+1. procedure caches  
+2. operation modes  
+3. file groups *  
+4. data caches  
+
+A[n] _____ can use a shared connection to the database instead of creating a new one every time.
+1. HTTP GET request  
+2. web browser  
+3. DLL  
+4. API *  
+
+A[n] _____ data dictionary is not updated automatically and usually requires a batch process to be run.
+1. passive *  
+2. active  
+3. static  
+4. dynamic  
+
+A[n] _____ database stores each database fragment at a single site.
+1. partially replicated  
+2. partitioned  
+3. unreplicated *  
+4. fully replicated  
+
+A[n] _____ file provides the composition of the database’s logical model and defines the syntax rules for an XML document.
+1. XMLD  
+2. XHTML  
+3. DTD *  
+4. DLM  
+
+A[n] _____ is a logical grouping of several data files that store data with similar characteristics.
+1. table space *  
+2. data cache  
+3. listener  
+4. procedure cache  
+
+A[n] _____ is optimized for decision support and is generally represented by a data warehouse or a data mart.
+1. data analysis tool  
+2. data visualization  
+3. ETL tool  
+4. data store *  
+
+A[n] _____ lock exists when concurrent transactions are granted read access on the basis of a common lock.
+1. exclusive  
+2. binary  
+3. two-phase  
+4. shared *  
+
+A[n] _____ phase in a two-phase lock is when a transaction releases all locks and cannot obtain a new lock.
+1. shrinking *  
+2. unlocking  
+3. locking  
+4. growing  
+
+A[n] _____ plan is a set of instructions generated at application compilation time that predetermines how the application will connect to and communicate with the database at run time.
+1. access *  
+2. completion  
+3. communication  
+4. application  
+
+ABC, the Company you work for, considered all the advantages of cloud computing and decided to adopt one cloud service. However, after adopting the service, they realized that it is challenging to configure the cloud service with internal services. Which disadvantage of cloud computing does this depict?
+1. Complex licensing schemes  
+2. Difficult data migration and lengthy process  
+3. Organization culture and ownership control  
+4. Difficult integration with in-house systems *  
+
+All data in a database are stored in _____ files.
+1. ROM  
+2. TABLE  
+3. RAM  
+4. DATA *  
+
+An inventory company makes a backup copy of their database on a weekly basis. The last backup was done on the 14th of August 2021. Then on the week of the 16th August, they realized that some operations are missing since the last backup that took place on the 14th. What would you recommend that the company should do?
+1. Differential backup of the database  
+2. Incremental backup of the database  
+3. Transactional log backup of the database *  
+4. Full backup of the database  
+
+A multidimensional database management systems (MDBMS) uses proprietary techniques to store data in _____ n-dimensional arrays.
+1. table-like  
+2. network-like  
+3. matrix-like *  
+4. cube-like  
+
+Analyzing massive amounts of data to uncover hidden trends, patterns, and relationships; and forming computer models to simulate the findings and using the models to support business decision-making are performed by ____.
+1. a data mart  
+2. data schema  
+3. data mining *  
+4. a data warehouse  
+
+Another name for a database server-side extension program is _____.
+1. web server  
+2. database application server  
+3. web application middleware  
+4. web-to-database middleware *  
+
+ANSI has defined standards that govern SQL database transactions. Transaction support is provided by two SQL statements _____ and ROLLBACK.
+1. ASSIGN  
+2. UPDATE  
+3. COMMIT *  
+4. RETRIEVE  
+
+As a data analyst in your organization, you might want to know how PRODUCT X fared relative to PRODUCT Z since November 2019 by region, state, city, store, and customer. Which type of business decision will this help you to solve?
+1. Time span  
+2. Operational  
+3. Tactical  
+4. Decision support *  
+
+As a data analyst, you might want to know how product X fared relative to product Z during the past six months by region, state, city, store, and customer. This example would be used to depict which one of the following?
+1. Time span  
+2. Optimization  
+3. Dimensionality *  
+4. Granularity  
+
+As a Database Administrator (DBA) in your organization, one of your duties is to provide end-user support to your department. Which of the following is not one of the support you should provide to your end-users?
+1. Finding solution to information needs  
+2. Resolving conflicts and problems  
+3. Ensuring quality and integrity of data and application  
+4. Ensuring database software selection *  
+
+As a DBA, all of the following EXCEPT one are the data dimensions you would describe to top-level managers to obtain their support for endorsing the data administration function.
+1. The impact of a DBMS introduction into an organization must be illustrated and explained  
+2. Explain important ways to address the data impact of DBMS *  
+3. Identify and define the need for and role of the DBMS  
+4. Emphasize the importance of data as a company asset  
+
+As a discipline, data visualization can be studied as _______ techniques used to explore and discover data insights by applying: _______, ________, and ________.
+1. spatial awareness, a group of visual communication, pattern recognition, and aesthetics  
+2. of visual communication, pattern recognition, spatial awareness, and aesthetics  
+3. of visual communication, pattern recognition, aesthetics, and spatial awareness  
+4. a group of visual communication, pattern recognition, spatial awareness, and aesthetics *  
+
+As long as two transactions access _____ data, there is no conflict, and the order of execution is irrelevant to the final outcome.
+1. common  
+2. locked  
+3. unrelated *  
+4. shared  
+
+Assuming DBMS has three transactions (T1, T2, and T3) to execute at the same time. To properly execute these transactions, the DBMS schedules the concurrent execution of the transaction operations. In the above case, which transaction properties should individual transactions comply with to enable the execution of these transactions?
+1. All transaction properties including serializability *  
+2. Atomicity, Consistency, Isolation, and Durability  
+3. Serializability  
+4. Isolation and serializability  
+
+Assuming you have been hired by an organization “data dynamics”. Your main responsibility is to manage the entire organization’s data set. Which of the following would you NOT consider as characteristic for their data dictionary?
+1. Checklist of data duplication conflict *  
+2. Access authorizations for all users of database  
+3. Programs that access the database  
+4. Relationships among data elements
+
+_____ transparency allows a physically dispersed database to be managed as though it were centralized.
+1. Performance  
+2. Failure  
+3. Transaction  
+4. Distribution *  
+
+_____ transparency allows data to be updated simultaneously at several network sites.
+1. extract details, such as order data, from it.  
+2. display it in a standard formatted way.  
+3. Transaction *  
+4. perform immediate data entry validation.  
+
+_____ transparency allows the system to operate as if it were a centralized database management system.
+1. Failure  
+2. Performance *  
+3. Distribution  
+4. Heterogeneity  
+
+_____ transparency exists when the end user or programmer must specify the database fragment names but does not need to specify where these fragments are located.
+1. Location *  
+2. Fragmentation  
+3. Transaction  
+4. Local mapping  
+
+_____ transparency is the highest level of transparency. The end user or programmer does not need to know that a database is partitioned.
+1. Performance  
+2. Local mapping  
+3. Location  
+4. Fragmentation *  
+
+______ fragmentation allows you to break a single object into two or more segments or fragments.
+1. Horizontal  
+2. Vertical  
+3. Mixed  
+4. Data *  
+
+______ is the OLE-DB object that manages connection with data source and provide data to the consumers.
+1. Consumers  
+2. Drivers  
+3. Providers *  
+4. Suppliers  
+
+_______file provides the composition of the database’s logical model and defines the syntax rules or valid elements for each type of XML document.
+1. Extensible Style Language  
+2. Extensible Style Language Transformation  
+3. Document Type Definition *  
+4. XML schema definition  
+
+_____is the transparency that does not require the end user or programmer to know that a database is partitioned.
+1. Location transparency  
+2. Local mapping transparency  
+3. Heterogeneity transparency  
+4. Fragmentation transparency *  
+
+____is the great concern to DBAs who manages current DBMS installations.
+1. security  
+2. integrity  
+3. privacy  
+4. Availability *  
+
+____level locking yields the most flexible multi-user data access.
+1. Field *  
+2. Row  
+3. Table  
+4. Page  
+
+“All users must have passwords” is an example of a _____.
+1. procedure  
+2. policy *  
+3. standard  
+4. rule  
+
+"A password must have a minimum of five characters" is an example of a _____.
+1. procedure  
+2. standard *  
+3. policy  
+4. rule  
+
+A ____ plan is a set of instructions generated at application compilation time that predetermines how the application will access the database at run time.
+1. Application  
+2. Access *  
+3. Communication  
+4. Completion  
+
+A _____ distributed database system will support different database management systems (DBMS) that may even support different models running under different computer systems.
+1. heterogeneous  
+2. homogeneous  
+3. fully heterogeneous *  
+4. fully homogeneous  
+
+A _____ index is based on 0 and 1 bits to represent a given condition.
+1. logical  
+2. bitmapped *  
+3. normal  
+4. multidimensional  
+
+A _____ is a dynamic table that not only contains the SQL query command to generate the rows, but also stores the actual rows.
+1. data cube  
+2. materialized view *  
+3. SQL view  
+4. star schema  
+
+A _____ request lets a single SQL statement reference data located at several different local or remote DP sites.
+1. transaction  
+2. distributed *  
+3. remote  
+4. fragmented  
+
+A _____ schema is a type of star schema in which dimension tables can have their own dimension tables.
+1. matrix  
+2. dimension  
+3. snowflake *  
+4. startflake  
+
+A ______ is often used on multidimensional data held in data warehouses.
+1. Bitmap index *  
+2. Primary index  
+3. B-tree  
+4. Pashing algorithm  
+
+A centralized database management is subject to a problem such as _____.
+1. growing number of remote locations. *  
+2. dependence on multiple sites  
+3. organizational flexibility of the database  
+4. maintaining and operating small database systems  
+
+A cloud infrastructure built for agencies of the federal government is an example of ____.
+1. Community cloud *  
+2. Public cloud  
+3. Service cloud  
+4. Private cloud  
+
+A cloud infrastructure built for the higher education is an example of ____.
+1. Service cloud  
+2. Public cloud  
+3. Community cloud *  
+4. Private cloud  
+
+A cloud infrastructure built for the military is an example of ____.
+1. Private cloud  
+2. Community cloud *  
+3. Public cloud  
+4. Service cloud  
+
+A complete data warehouse architecture includes support for the following EXCEPT______.
+1. Optimized data manipulation support *  
+2. Decision support data store  
+3. Data extraction and integration filter  
+4. Specialized presentation interface  
+
+A data administrator is also known as a[n] _____.
+1. information resource manager *  
+2. information engineering officer  
+3. data security officer  
+4. systems administrator  
+
+A database management system needs _____ to prepare the data for presentation to the end user or to an application program.
+1. I/O interface  
+2. formatting *  
+3. security  
+4. concurrency control  
+
+A DBA determines the initial size of the data files that make up the database; however, as required, the data files can automatically expand in predefined increments known as _____.
+1. Extents *  
+2. Procedure cache  
+3. Supplements  
+4. Buffer cache  
+
+A DDBMS is subject to which restriction?
+1. All database processing must be done at a single site.  
+2. Rapid ad hoc data access is not possible.  
+3. Remote data access is provided on a read-only basis. *  
+4. Multiple instances of the same database should be integrated over a network.  
+
+A decision support system _______.
+1. is based on the atomic transaction property  
+2. is an arrangement of computerized tools used to assist managerial decision making *  
+3. does not provide ad hoc query  
+4. is a methodology designed to extract information from data  
+
+A diskpage, or page, is the equivalent of a _____.
+1. disk sector  
+2. database schema  
+3. database table  
+4. diskblock *  
+
+A distributed ____ lets a single SQL statement reference data located at several different local or remote database processing sites.
+1. Process  
+2. Control  
+3. Request *  
+4. Transaction  
+
+A distributed _____ contains the description of the entire database as seen by the database administrator.
+1. data dictionary *  
+2. global catalog  
+3. global index  
+4. data thesaurus  
+
+A distributed database is composed of several parts known as database _____.
+1. fragments *  
+2. parts  
+3. sections  
+4. partitions
+
+____ is a meta-language used to represent and manipulate data elements.
+1. XHTML  
+2. XML *  
+3. XML Schemas  
+4. HTML  
+
+_____ provides the semantics that facilitates the sharing, exchange, and manipulation of structured documents over organizational boundaries.
+1. HTML  
+2. XML Schemas  
+3. XHTML  
+4. XML *  
+
+___ can be placed on any fields in the file that is unordered.
+1. The primary index  
+2. The secondary index *  
+3. The multi-level index  
+4. The candidate index  
+
+____ are places on unique fields and they are used to locate a specific record pointed to by the index.
+1. Primary indexes *  
+2. Multi-Level indexes  
+3. Secondary indexes  
+4. Single-level indexes  
+
+____ can be placed on any field in the file that is unordered.
+1. Secondary indexes *  
+2. Single-level indexes  
+3. Multi-Level indexes  
+4. Primary indexes  
+
+____ interleaves the execution of the database operations belonging to several concurrent transactions to ensure the _____ of transactions.
+1. Scheduler and consistency  
+2. Scheduler and Atomicity  
+3. Scheduler and serializability *  
+4. Scheduler and isolation  
+
+____ stores a processed version of SQL that is ready for execution by the DBMS.
+1. Data cache  
+2. Procedure cache *  
+3. Buffer cache  
+4. Extends cache  
+
+_____ activities cover all tasks directly related to the day-to-day operations of the DBMS and its applications.
+1. Security auditing and monitoring  
+2. Performance monitoring and tuning  
+3. System support *  
+4. Backup and recovery  
+
+_____ allows the translation of the company’s strategic goals into the data and applications that will help the company achieve those goals.
+1. MOLAP  
+2. Business Intelligence  
+3. Information engineering (IE) *  
+4. Access Management  
+
+_____ are in charge of presenting data to the end user in a variety of ways.
+1. Data stores  
+2. ETL tools  
+3. Data visualization tools *  
+4. Data analysis tools  
+
+_____ are more detailed and specific than policies and describe the minimum requirements of a given DBA activity.
+1. Standards *  
+2. Guidelines  
+3. Procedures  
+4. Documentations  
+
+_____ CASE tools provide support for the coding and implementation phases.
+1. Back-end *  
+2. Vertical  
+3. Horizontal  
+4. Front-end  
+
+_____ CASE tools provide support for the planning, analysis, and design phases.
+1. Front-end *  
+2. Back-end  
+3. Horizontal  
+4. Vertical  
+
+_____ Code is embedded inside an HTML page and is activated by triggering events such as clicking on a link.
+1. Visual Basic  
+2. SQL  
+3. XML  
+4. VBScript *  
+
+_____ component of star schema allows the data warehouse and online transaction processing (OLAP) systems to use a carefully defined path that will govern how data are to be decomposed and aggregated for drill-down and roll-up operations.
+1. Attribute hierarchy *  
+2. Attribute  
+3. Dimension  
+4. Fact  
+
+_____ deals with ensuring that data is protected against unauthorized access, and if the data are accessed by an authorized user, that the data are used only for an authorized purpose.
+1. Confidentiality *  
+2. Availability  
+3. Integrity  
+4. Compliance  
+
+_____ describes the extent to which modules are independent of one another.
+1. Module cohesive  
+2. Module connectivity  
+3. Module collaboration  
+4. Module coupling *  
+
+_____ distributed database management systems (DDBMS) integrate multiple instances of the same DBMS over a network.
+1. Heterogeneous  
+2. Fully heterogeneous  
+3. Homogeneous *  
+4. Combination  
+
+_____ extends SQL so that it can differentiate between access requirements for data warehouse data and operational data.
+1. BI  
+2. OLAP  
+3. ROLAP *  
+4. DBMS  
+
+_____ is a collection of technologies used to access any type of data source and manage the data through a common interface.
+1. ODBC  
+2. UDA *  
+3. DAO  
+4. OLE-DB  
+
+_____ is a scripting language that allows web authors to design interactive sites.
+1. HTML  
+2. Visual Basic  
+3. JavaScript *  
+4. Java  
+
+_____ is a small, single-subject data warehouse subset that provides decision support to a small group of people.
+1. Data warehouse  
+2. Data mart *  
+3. Data mining  
+4. Data model  
+
+_____ is a web application server that provides the ability to connect web servers to multiple data sources.
+1. MS Access  
+2. dBase  
+3. FoxPro  
+4. ColdFusion/JRun *  
+
+_____ is an object-oriented programming language developed by Sun Microsystems that runs on top of web browser software.
+1. VBScript  
+2. JavaScript  
+3. Java *  
+4. Visual Basic  
+
+_____ is responsible for the definition, documentation, and communication of policies, standard and procedures before enforcement.
+1. Top management Stakeholders  
+2. Security Administrators  
+3. System administrators  
+4. Database Administrator *  
+
+_____ is the central activity during the parsing phase in query processing.
+1. Query validation  
+2. Partitioning  
+3. Clustering  
+4. Query optimization *  
+
+_____ is the delay imposed by the amount of time required for a data packet to make a round trip from point A to point B.
+1. Network latency *  
+2. Data distribution  
+3. Network partitioning  
+4. Replica transparency  
+
+_____ means that data used during the execution of a transaction cannot be used by a second transaction until the first one is completed.
+1. Serializability  
+2. Time stamping  
+3. Atomicity  
+4. Isolation *  
+
+_____ provide a unified, single point of entry for information distribution.
+1. Dashboard  
+2. Decision support systems  
+3. Portals *  
+4. Data warehouses  
+
+_____ security breaches include database access by computer viruses and by hackers whose actions are designed to destroy or alter data.
+1. Destructive  
+2. Debilitative  
+3. Preserving  
+4. Corrupting *  
+
+_____ tools focus on the strategic and tactical use of information.
+1. Relational database management  
+2. Business  
+3. Networking  
+4. Business intelligence *
+
+In _____ backup of the database, only the best modifications to the database are copied.  
+1. Complete  
+2. Differential *  
+3. Incomplete  
+4. Full  
+
+In a business intelligence framework, data are captured from a production system and placed in _____ on a near real-time basis.  
+1. data warehouse *  
+2. portal  
+3. dashboard  
+4. decision support system  
+
+In a star schema, attributes are often used to search, filter, or classify _____.  
+1. dimensions  
+2. facts *  
+3. tables  
+4. sales  
+
+In a typical star schema, each dimension record is related to thousands of _____ records.  
+1. primary  
+2. fact *  
+3. attribute  
+4. key  
+
+In most highly distributed database systems, designers tend to emphasize ______ over data _____ and _____?  
+1. Partition, confidentiality, and availability  
+2. Availability, consistency, and partition *  
+3. Consistency, availability, and confidentiality  
+4. Confidentiality, partition, and consistency
+
+In sales company, for example, if managers must analyze sales by region, they must be able to access data showing the sales by region, by city within the region, by store within the city within the region, and so on. From the analyst’s point of view, this example depicts which one of the points that differentiate decision support data from operational data?  
+1. Granularity *  
+2. Dimensionality  
+3. Optimisation  
+4. Time span
+
+In standard SQL, the optimizer hint ALL_ROWS is generally used for _____ mode processes.  
+1. transaction  
+2. batch *  
+3. interactive  
+4. real-time  
+
+In standard SQL, the optimizer hint FIRST_ROWS is generally used for _____ mode processes.  
+1. real-time  
+2. transaction  
+3. batch  
+4. interactive *  
+
+In the ADO.NET framework, the _____ is a disconnected, memory-resident representation of the database.  
+1. Data Set *  
+2. Data Reader  
+3. Data Adapter  
+4. Command  
+
+In the ADO.NET framework, the _____ object contains the actual SQL code or a stored procedure call to be run by the database.  
+1. Command *  
+2. Data Adapter  
+3. Data Set  
+4. Data Reader  
+
+In the context of data backup and recovery, the activities of a _____ include the DBA operations that are classified as disaster management.  
+1. database security officer *  
+2. data administrator  
+3. database programmer  
+4. systems analyst  
+
+In the context of RAID levels, _____ refers to writing the same data blocks to separate drives.  
+1. partitioning  
+2. aggregating  
+3. mirroring *  
+4. striping  
+
+In the context of the data-information-decision cycle, decisions made by high-level managers trigger actions in an organization's:  
+1. top levels  
+2. target markets  
+3. customer base  
+4. Lower levels *  
+
+In the ODBC architecture, a[n] _____ is in charge of managing all database connections.  
+1. ODBC driver  
+2. driver manager *  
+3. ODBC API  
+4. DLL  
+
+In the optimistic approach, during the _____ phase, changes are permanently applied to the database.  
+1. read  
+2. shared  
+3. validation  
+4. write *
+
+In the optimistic approach, during the _____ phase, a transaction scans the database, executes the needed computations, and makes the updates to a private copy of the database values.  
+1. validation  
+2. write  
+3. Read *  
+4. shared  
+
+In the wait/die scheme, the:  
+1. older transaction rolls back the younger transaction and reschedules it.  
+2. younger and older transactions both wait indefinitely to be released.  
+3. older transaction waits for the younger one to complete and release its locks. *  
+4. younger, preempted transaction is rescheduled using the same timestamp.  
+
+In web-to-database middleware, ____ executes the query and passes the result back.  
+1. Web-to-database middleware  
+2. TCP/IP Network  
+3. Web server  
+4. Database server *  
+
+In web-to-database middleware, ____ is responsible for receiving, validating, and returning requests to the client browser.  
+1. Web server *  
+2. Web-to-database middleware  
+3. Client computer  
+4. TCP/IP Network  
+
+In web-to-database middleware, ____ reads, validates, and executes the script.  
+1. Web server  
+2. TCP/IP Network  
+3. Web-to-database middleware *  
+4. Database server 
+
+In which of the following situations would a decentralized design be used? When:  
+1. The system’s data component has a considerable number of entities  
+2. The operations of and scope of the database problem is sufficiently limited to allow even a single designer to define the problem  
+3. The data component has a relatively small number of objects and procedures  
+4. Problems are spread across several operational sites  
+1. 2 and 4 *
+
+Infrastructure as a Service (IaaS) is the cloud service that offers consumers the ability to _____.  
+1. Build and deploy applications using the provider's cloud infrastructure  
+2. Run the provider’s applications internally within their organizations  
+3. Provide their own resources on demand *  
+4. Build and manage applications using the provider’s cloud tools  
+
+Integrity, confidentiality, and availability of data are the most common security goals. At what stage of database design is integrity assigned and validated?  
+1. All the stages  
+2. Logical stage *  
+3. Physical stage  
+4. Conceptual stage  
+
+It is the responsibility of the Database Administrator (DBA) to do all the following EXCEPT ___.  
+1. Secure the Database Management Systems (DBMS) from the point of installation through to operation and maintenance.  
+2. Generate queries, have them processed and return requests to end users *  
+3. Define goals and formulate a strategic plan for the database administration function  
+4. Coordinate, monitor, and allocate database administration resources  
+
+Knowing the sparsity of a column helps you decide whether the use of _____ is appropriate.  
+1. a full table scan  
+2. query optimization  
+3. an index *  
+4. query processing 
+
+Lock _____ indicates the level of lock use.  
+1. growing  
+2. shrinking  
+3. granularity *  
+4. serializability
+
+Logical design is the second stage in the database design process. Which of the following would you consider the correct steps in performing logical design?  
+1. Map the conceptual model to logical model components  
+2. Validate the logical model integrity constraints  
+3. Validate the logical data model using normalization  
+4. Validate the logical model against user requirements  
+1. 1, 3, 2, and 4 *
+
+Managers are seldom interested in a specific sales invoice to customer X; rather, they tend to focus on sales generated during the last month, the last year, or the last five years. This example would be used to depict which one of the following?  
+1. Time span *  
+2. Optimisation  
+3. Granularity  
+4. Dimensionality  
+
+Most query optimization techniques are designed to make the optimizer’s work easier. Which combination of the following factors should you keep in mind if you intend to write conditional expressions in SQL code?  
+1. Use of conditional expressions with functions whenever possible  
+2. Numeric field comparisons are faster than character, date, and NULL comparisons  
+3. Equality comparisons are faster than inequality comparisons  
+4. When using multiple conditional expressions, write the equality conditions first  
+1. b, c, & d *
+
+Non-volatility ensures that data are _____.  
+1. focused on current transactions  
+2. derived from the entire organization  
+3. arranged and optimized to provide answers  
+4. never deleted and new data are continually added *  
+
+ODBC works on the _____ operating system.  
+1. Mac  
+2. Kronos  
+3. UNIX  
+4. Windows *  
+
+Of the following events, which is defined by ANSI as being equivalent to a COMMIT?  
+1. The database is shut down for maintenance.  
+2. Five SQL statements are executed.  
+3. The program is abnormally terminated.  
+4. The end of a program is successfully reached. *  
+
+Of the following events, which is defined by ANSI as being equivalent to a ROLLBACK?  
+1. The end of a program is successfully reached.  
+2. The database is shut down for maintenance.  
+3. All changes are aborted and returned to a previous consistent state. *  
+4. Five SQL statements are executed.  
+
+On the client side, the objective is to generate an SQL query that returns a correct answer in the least amount of time, using a minimum amount of resources at the server end. The activities required to achieve this goal are commonly referred to as _____ tuning.  
+1. database SQL  
+2. client SQL  
+3. SQL performance *  
+4. DBMS performance  
+
+One disadvantage of a distributed database management system (DDBMS) is:  
+1. processor dependence.  
+2. site additions affect other operations.  
+3. slower data access.  
+4. absence of standard. *  
+
+One likely problem when operational data is integrated into the data warehouse includes variation in terms of different departmental recording of data, data type, and structure. These examples indicate that most of the data transformation problems are related to all of the following EXCEPT ______.  
+1. Incompatible data formats  
+2. Use of synonyms and homonyms  
+3. Inconsistent modification formats *  
+4. Use of different coding schemes  
+
+One of the actions performed in database initial study is:  
+1. Defining the questions  
+2. Solving problems and constraints  
+3. Defining the scope and boundaries *  
+4. Analyzing the company operation  
+
+One of the advantages of _____ over other middleware is that it requires no configuration on the client side.  
+1. ADO.NET  
+2. ODBC  
+3. JDBC *  
+4. OLE-DB  
+
+One of the features of _____ is to provide database access with transactional management capabilities.  
+1. Web application server *  
+2. Common gateway interface  
+3. Web interface server  
+4. Programming interface  
+
+One of the features of _____ is to provide security and authentication of users through user IDs and passwords.  
+1. Programming interface  
+2. Web server  
+3. Common gateway interface  
+4. Web application server *  
+
+One of the important functions provided by the database _____ is to reserve the resources that must be used by the database at runtime.  
+1. Security Component  
+2. Administrator  
+3. Authorization Manager  
+4. Initialization Parameters *  
+
+One of the major advantages of _____ Markup Language is it closely maps to database terminology and features.  
+1. XML Schemas *  
+2. XHTML  
+3. HTML  
+4. XML  
+
+One of the major benefits of _____ Markup Language is that it separates data structure from its presentation and processing.  
+1. HTML  
+2. XML *  
+3. XHTML  
+4. XML Schemas  
+
+One of the three most common data integrity and consistency problems is _____.  
+1. lost updates *  
+2. deadlocks  
+3. disk failures  
+4. user errors  
+
+Page-level locks are particularly appropriate in a ____ DBMS system in which data sharing is a crucial component.  
+1. Neither single-user nor multi-user  
+2. Both single-user and multi-user  
+3. Multi-user *  
+4. Single-user  
+
+Personal access control to the software of a database installation and physical protection of both hardware and software are all examples of which managerial DBA activity?  
+1. Testing  
+2. Delivering  
+3. Organizing  
+4. Planning  
+5. Monitoring * 
+
+Peter Kruger is a manager of a small product distribution company in Port Elizabeth. As the business is fast-growing, Peter sees the need to manage the massive information pool to help guide the fast growth. Peter is familiar with spreadsheet software, and he currently employs a sales force of four people. Because of your knowledge and small experience in databases, Peter approached you to develop a data warehouse application prototype. This prototype will enable him to study sales figures by year, region, salesperson, and product.  
+Based on this scenario, what would you identify as the appropriate fact table?  
+1. sales *  
+2. warehouse  
+3. orders  
+4. product  
+
+Peter Kruger is a manager of a small product distribution company in Port Elizabeth. As the business is fast-growing, Peter sees the need to manage the massive information pool to help guide the fast growth. Peter is familiar with spreadsheet software, and he currently employs a sales force of four people. Because of your knowledge and small experience in databases, Peter approached you to develop a data warehouse application prototype. This prototype will enable him to study sales figures by year, region, salesperson, and product.  
+Based on this scenario, what would you identify as the appropriate dimension tables?  
+1. 2, 3, and 5  
+2. 2, 3, 4, and 5  
+3. 1, 3, 4, and 5 *  
+4. 1, 2, and 3  
+
+Peter Kruger is a manager of a small product distribution company in Port Elizabeth. As the business is fast-growing, Peter sees the need to manage the massive information pool to help guide the fast growth. Peter is familiar with spreadsheet software, and he currently employs a sales force of four people. Because of your knowledge and small experience in databases, Peter approached you to develop a data warehouse application prototype. This prototype will enable him to study sales figures by year, region, salesperson, and product.  
+The above scenario would allow you to create fact and dimension tables. Which attribute would the fact table use to connect to the dimension tables?  
+1. Candidate keys  
+2. Composite keys  
+3. Primary keys *  
+4. Superkeys  
+
+Peter Kruger is a manager of a small product distribution company in Port Elizabeth. As the business is fast-growing, Peter sees the need to manage the massive information pool to help guide the fast growth. Peter is familiar with spreadsheet software, and he currently employs a sales force of four people. Because of your knowledge and small experience in databases, Peter approached you to develop a data warehouse application prototype. This prototype will enable him to study sales figures by year, region, salesperson, and product.  
+The above scenario would allow you to create fact and dimension tables. Which attribute would enable referential integrity between fact table and dimension tables?  
+1. Secondary keys *  
+2. Candidate keys  
+3. Superkeys  
+4. Primary keys  
+
+Peter Kruger is a manager of a small product distribution company in Port Elizabeth. As the business is fast-growing, Peter sees the need to manage the massive information pool to help guide the fast growth. Peter is familiar with spreadsheet software, and he currently employs a sales force of four people. Because of your knowledge and small experience in databases, Peter approached you to develop a data warehouse application prototype. This prototype will enable him to study sales figures by year, region, salesperson, and product.  
+Based on this scenario, which data warehouse subset would you create to assist Peter?  
+1. relational mart  
+2. star schema *  
+3. data mart  
+4. data mining  
+
+Platform as a Service (PaaS) is a cloud service that offers consumers the capability to ____.  
+1. Provide their own resources on demand  
+2. Provide storage, server, database, and processing units  
+3. Build and deploy applications using the provider’s cloud infrastructure *  
+4. Run the provider’s applications internally within their organizations  
+
+Query optimization functions are associated with which transparency feature of Distributed Database Management System (DDBMS)?  
+1. Performance transparency *  
+2. Transaction transparency  
+3. Distribution transparency  
+4. Heterogeneity transparency  
+
+Query optimization must provide ______ transparency in distributed database systems.  
+1. Distribution transparency *  
+2. Heterogeneity transparency  
+3. Performance transparency  
+4. Transaction transparency  
+
+Query optimization routines are more complicated in DDBMS because DDBMS must decide ____.  
+1. What and which fragment of the database to access  
+2. Where and what fragment of the database to access  
+3. Where and which fragment of the database to access *  
+4. Whose and what fragment of the database to access  
+
+Read the following query (generated based on a grocery store) and answer the question:  
+SELECT P_CODE, P_PRICE FROM PRODUCT WHERE P_PRICE >= (SELECT AVG(P_PRICE) FROM PRODUCT);  
+Assuming there is no table statistic, what is the likely level of data sparsity of the P_PRICE column?  
+1. P_PRICE column is likely to have low sparsity  
+2. P_PRICE column is likely to have no sparsity  
+3. P_PRICE column is likely to have normal sparsity  
+4. P_PRICE column is likely to have high sparsity *  
+
+Read the following query (generated based on a grocery store) and answer the question:  
+SELECT P_CODE, P_PRICE FROM PRODUCT WHERE P_PRICE >= (SELECT AVG(P_PRICE) FROM PRODUCT);  
+Assuming there is no table statistic, do you think it is necessary to create an index for the P_PRICE column?  
+1. No, because P_PRICE column has a low sparsity  
+2. No, because P_PRICE column has a normal sparsity  
+3. Yes, because P_PRICE column has a high sparsity *  
+4. Yes, because P_PRICE column has no sparsity  
+
+Read the following query and answer the question:  
+SELECT P_CODE, P_PRICE FROM PRODUCT WHERE P_PRICE >= (SELECT AVG(P_PRICE) FROM PRODUCT);  
+Assuming the table used in the above query does not have table statistics, which type of optimization will the DBMS use?  
+1. DBMS will use rule-based optimization *  
+2. DBMS will use database performance tuning  
+3. DBMS will use SQL performance tuning  
+4. DBMS will use cost-based optimization  
+
+Read the following query and answer the question:  
+SELECT P_CODE, P_PRICE FROM PRODUCT WHERE P_PRICE >= (SELECT AVG(P_PRICE) FROM PRODUCT);  
+Assuming there is no table statistic, which I/O operation is the query likely to consider using?  
+1. Row ID Table Access  
+2. Full table scan *  
+3. Unique Index access  
+4. Range Index scan  
+
+Resolving data requests in a distributed database environment should not take _____ into consideration.  
+1. Data replication  
+2. Data distribution  
+3. Network and node availability  
+4. Data manipulation *  
+
+Security is an essential concern for any kind of computer system. When developing a database system, it is important to establish the security goal. At which stage of database design does this happen?  
+1. Conceptual stage  
+2. Physical stage *  
+3. All the stages  
+4. Logical stage  
+
+SELECT CUS_CODE, MAX(LINE_TOTAL) FROM CUSTOMER NATURAL JOIN INVOICE NATURAL JOIN LINE WHERE CUS_AREACODE = ‘615’ GROUP BY CUS_CODE;  
+Based on the above query, what indexes would you recommend?  
+1. V_CUS_AREACODE  
+2. CUS_INVOICE  
+3. V_CUS_AREACODE and CUS_CODE *  
+4. CUS_CODE  
+
+SELECT STUDENT_NUMBER, STUDENT_MODULE FROM STUDENT WHERE STUDENT_MODULE = INF3703  
+After an evaluation of the above SQL query, do you think it is a successful database transaction? Defend your answer.  
+1. Yes – because the code changes the database from one consistent state to another.  
+2. Yes – because the code updates the database and leaves it in a consistent state  
+3. Yes – because the code accesses and changes the database from one consistent state to another.  
+4. Yes – because the code after accessing data leaves the database in a consistent state *  
+
+SELECT * FROM PRODUCT WHERE EMP_DOE = '1-NOV-1011'  
+Given the above query example, what program retrieves the data from the database and passes the retrieved data to the web server?  
+1. Client-Side Extension  
+2. Common Gateway Interface (CGI)  
+3. Database Middleware  
+4. Web Server Extensions *  
+
+SELECT P_CODE, P_DESCRIPT, P_PRICE, PRODUCT.V_CODE, V_STATE FROM PRODUCT P, VENDOR V WHERE P.V_CODE = V.V_CODE AND V_STATE = ‘NY’ AND V_AREACODE = ‘212’ ORDER BY P_PRICE;  
+Based on the above query, what indexes would you recommend?  
+1. V_STATE and V_AREACODE *  
+2. V_STATE and P_PRODUCT  
+3. V_STATE and P_PRICE  
+4. V_AREACODE and P_PRICE  
+
+Since most e-commerce transactions take place between businesses, companies that use B2B transactions should have ways to understand and validate each other’s tags. Which of the following can be used to accomplish this?  
+1. XHTML  
+2. XML  
+3. XML Schemas *  
+4. HTML  
+
+Suppose you are given FIVE SQL statements to update the database of your company. Upon the execution of the first THREE statements, the computer system loses power due to load shedding in your area, and there is no backup power supply to complete the transaction. Assuming your company uses a database management system (DBMS) to support transaction management, what function will the DBMS perform in this regard?  
+1. Save the executed transactions and roll back to the previously consistent state  
+2. Recover the database bysaving the executed transactions to prevent the database from moving into an inconsistent state  
+3. Roll back the database to the previously consistent state *  
+4. None of the options is correct  
+
+System support plus backup and recovery are performed during _____ DBA’s technical role.  
+1. Testing and evaluation of databases and applications  
+2. Evaluation, selection, and installation of DBMS and related utilities  
+3. Design and evaluation of databases and applications  
+4. Operation of DBMS, utilities, and applications *  
+
+The _____ administrator is responsible for strategic planning.  
+1. system  
+2. database  
+3. program  
+4. data *  
+
+The _____ approach to scheduling concurrent transactions assigns a global unique stamp to each transaction.  
+1. table-locking  
+2. unique  
+3. time stamping *  
+4. scheduled  
+
+The _____ cache is used as a temporary storage area for ORDER BY or GROUP BY operations, as well as for index-creation functions.  
+1. sort *  
+2. SQL  
+3. optimizer  
+4. data  
+
+The _____ component of a CASE tool produces the information system’s input/output formats.  
+1. analysis  
+2. centralized  
+3. partitioned *  
+4. replicated  
+
+The _____ guarantees that if a portion of a transaction operation cannot be committed, all changes made at the other sites participating in the transaction will be undone to maintain a consistent database state.  
+1. coordinator protocol  
+2. write-ahead protocol  
+3. two-phase commit protocol (2PC) *  
+4. DO-UNDO-REDO protocol  
+
+The _____ is a shared and reserved memory area that stores the most recently executed SQL statements or PL/SQL procedures, including triggers and functions.  
+1. buffer cache  
+2. data cache  
+3. permanent storage  
+4. procedure cache *  
+
+The _____ is the most specialized object in the ADO.NET framework.  
+1. DataReader  
+2. Command  
+3. DataAdapter *  
+4. DataSet  
+
+The _____ isolation level ensures that queries return consistent results.  
+1. repeatable read *  
+2. read uncommitted  
+3. serializable  
+4. read committed  
+
+The _____ manager is responsible for assigning and policing the locks used by transactions.  
+1. lock *  
+2. lock schedule  
+3. database  
+4. transaction  
+
+The _____ must be set large enough to permit as many data requests to be serviced from cache as possible.  
+1. sort cache  
+2. data cache *  
+3. SQL cache  
+4. optimizer mode  
+
+The _____ processor is the software component found in each computer that requests data. It receives and processes the application's data requests.  
+1. transaction *  
+2. data  
+3. network  
+4. database  
+
+The _____ rule requires that all copies of data fragments be identical.  
+1. shared fragment  
+2. mutual consistency *  
+3. horizontal fragmentation  
+4. replication  
+
+The _____ schema must support complex (non-normalized) data representations.  
+1. online analytical processing  
+2. multidimensional database  
+3. Guidelines  
+4. decision support database *  
+
+The _______ processor is the software component found in each computer that requests data, receives, and processes the application's data requests.  
+1. Database  
+2. Transaction *  
+3. Data  
+4. Network  
+
+The ________ table space is used for transaction-recovery purposes.  
+1. System data  
+2. Table data  
+3. Rollback segment *  
+4. Temporary segment  
+
+The advantages of business intelligence include the following EXCEPT _____.  
+1. common data repository  
+2. integrating architecture  
+3. processor independence *  
+4. Improved organizational performance  
+
+The attribute hierarchy provides a top-down data organization that is used for two main purposes: _____ and drill-down/roll-up data analysis.  
+1. normalization  
+2. decomposition  
+3. de-normalization  
+4. aggregation *  
+
+The basic star schema has four components: facts, _____, attributes, and attribute hierarchies.  
+1. dimensions *  
+2. relationships  
+3. cubes  
+4. keys  
+
+The benefit of cloud infrastructure that makes it easy to increase the database capacity and/or change the underlying data model is known as _______.  
+1. the latest software  
+2. mobile access  
+3. Scalable architecture *  
+4. cost-effectiveness  
+
+The company you work for has all its applications, including its data, delivered through the web. What advantage do you think this will offer them?  
+1. Reduced cost  
+2. Access to the latest applications and software  
+3. Decreased training cost *  
+4. Access to data anywhere  
+
+The data cache or _____ is a shared, reserved memory area that stores the most recently accessed data blocks in RAM.  
+1. buffer cache *  
+2. permanent storage  
+3. SQL cache  
+4. procedure cache  
+
+The database physical design step that allows the designer to define tables, indexes, and views’ physical organization is _______.  
+1. Define data model verification  
+2. Define integrity and security measures  
+3. Define performance measures  
+4. Define data storage organization *  
+
+The DBA’s _______ role is focused on personnel management and on interactions with the end-user community.  
+1. Technical  
+2. Managerial *  
+3. Arbitration  
+4. Administrative  
+
+The DBMS ____ the SQL query and chooses the most efficient access or execution plan.  
+1. Processes  
+2. Parses *  
+3. Executes  
+4. Fetches  
+
+The DBMS _____ the SQL query and chooses the most efficient access/execution plan.  
+1. parses *  
+2. fetches  
+3. processes  
+4. executes  
+
+The file organization that stores records in a sequence based on the value of one or more fields often known as the primary key is called _____.  
+1. hash file organization  
+2. sequential file organization *  
+3. heap file organization  
+4. indexed file organization  
+
+The implicit beginning of a transaction is when _____.  
+1. the first SQL statement is encountered *  
+2. the COMMIT command is issued  
+3. a database is started  
+4. a table is accessed for the first time  
+
+The information stored in the _____ is used by the DBMS for a recovery requirement triggered by a ROLLBACK statement, a program's abnormal termination, or a system failure such as a network discrepancy or a disk crash.  
+1. transaction log *  
+2. data dictionary  
+3. metadata  
+4. rollback manager
+
+The level of transparency supported by the DDBMS differs from system to system. Which of the following is not an example of distributed transparency?  
+1. Location  
+2. local mapping  
+3. Transaction *  
+4. Fragmentation  
+
+The main disadvantage of using CGI scripts is that:  
+1. they cause a resource bottleneck since they have to execute separately for each user request. *  
+2. they are specific to the web server and to the operating system, thus being platform dependent.  
+3. an error in one script can damage and bring down the web server completely.  
+4. they do not have the capability to process forms or prepare outputs based on form data.  
+
+The main requirements for a decision support database are ______.  
+1. b, d  
+2. a, b *  
+3. a, c  
+4. b, c  
+
+The majority of primary memory resources will be allocated to the _____ cache.  
+1. SQL  
+2. sort  
+3. data *  
+4. optimizer  
+
+The most time-consuming of all the phases in query processing is ___.  
+1. Parsing  
+2. Execution *  
+3. None of the phases is the most time-consuming  
+4. Fetching  
+
+The objective of concurrency control is to ensure the ____ of transactions in a multi-user database management system.  
+1. Atomicity  
+2. Consistency  
+3. Isolation  
+4. serializability *  
+
+The objective of query optimization functions is to minimize the total costs associated with the execution of a database request. The costs associated with a request are functions of the following EXCEPT?  
+1. End users access cost *  
+2. CPU time cost  
+3. The access time (I/O) cost  
+4. Communication cost  
+
+The ODBC API standard defines three levels of compliance: _____, Level-1, and Level-2, which provide increasing levels of functionality.  
+1. Core *  
+2. Basic  
+3. Level-0  
+4. Elementary  
+
+The process of identifying and documenting business rules is essential to database design because of the following reason among others.  
+1. They allow the designer to understand the business process *  
+2. They help customers to create an accurate data model  
+3. They allow the users to develop appropriate relation participation rules and constraints  
+4. None of the options are correct  
+
+The purpose of which database middleware is to manipulate any data type over any network using any operating system and programming languages.  
+1. Object Linking and Embedding for Database (OLE-DB)  
+2. Atomicity Open Database Connectivity (ODBC)  
+3. Embedding for Database (DLE-DB)  
+4. ActiveX Data Objects (ADO.NET) *  
+
+The reliance on _____ as the design methodology for relational databases is seen as a stumbling block to its use in OLAP systems.  
+1. star schema  
+2. denormalization  
+3. multidimensional schema  
+4. normalization *  
+
+The selection of DBMS during database design takes place after ______ design.  
+1. Physical stage  
+2. Conceptual stage *  
+3. None of the stages  
+4. Logical stage  
+
+The starting point in the development of a conceptual model using an ER diagram is to _________.  
+1. Develop the ERD diagram  
+2. Deal with business rules *  
+3. Identify entities and define attributes  
+4. Perform entity normalization  
+
+The statement “A transaction is a logical unit of work” is different from “a transaction is any action that reads from or writes to a database” Why?  
+1. Because with the former, multicomponent transactions must not be partly completed. *  
+2. Because the latter is a signal statement that leaves the database in a consistent state.  
+3. The former is a collection of related statements that leaves the database in an acceptable intermediate state.  
+
+The step in database conceptual design that allows the designer to define entities, attributes, domains, and relationships is known as _______.  
+1. Distributed database design  
+2. Entity relationship modeling and normalization *  
+3. Data model verification  
+4. Data analysis and requirements  
+
+The three following questions are asked during which DBA’s technical role? Does the DBMS provide web front-end access? What application development tools are available? Which programming languages are supported?  
+1. Testing and evaluating databases and applications.  
+2. Evaluating, selecting, and installing the DBMS and utilities. *  
+3. Designing and implementing databases and applications.  
+4. Operating the DBMS utilities, and applications.  
+
+The traditional system development life cycle consists of _____ phases?  
+1. Five *  
+2. Six  
+3. Three  
+4. Four  
+
+The web browser’s job is to interpret the HTML code that it receives from a web server and to:  
+1. display it in a standard formatted way. *  
+2. perform immediate data entry validation.  
+3. extract details, such as order data, from it.  
+4. develop web-based applications.  
+
+Three transactions T1, T2, and T3 are being executed simultaneously. T1 updates the university database with students that registered for INF3703, T2 updates INF3708 registered students, and T3 draws reports on the lists of students that have registered for both modules. T2 is, however, rolled back after T3 has already drawn a report from T2 that has not been finalized. Which transaction property does this scenario violate?  
+1. Consistency  
+2. Durability  
+3. Isolation *  
+4. Atomicity 
+
+Three transactions T1, T2, and T3 are being executed simultaneously. T1 updates the university database with students that registered for INF3703, T2 updates INF3708 registered students, and T3 draws reports on the lists of students that have registered for both modules. T2 is, however, rolled back after T3 has already drawn a report from T2 that has not been finalized. This scenario depicts a certain type of concurrency control problem. By what means can the concurrency control problem depicted in the above scenario be resolved?  
+1. Locking  
+2. Both scheduler and locking *  
+3. Granularity  
+4. Scheduler 
+
+Three transactions T1, T2, and T3 are being executed simultaneously. T1 updates the university database with students that registered for INF3703, T2 updates INF3708 registered students, and T3 draws reports on the lists of students that have registered for both modules. T2 is, however, rolled back after T3 has already drawn a report from T2 that has not been finalized.Which transaction concurrency control problem does this represent?  
+1. Two-phase Update  
+2. Lost Update  
+3. Inconsistent retrievals  
+4. Uncommitted data *  
+
+Three transactions T1, T2, and T3 are being executed simultaneously. T1 updates the university database with students that registered for INF3703, T2 updates INF3708 registered students, and T3 draws reports on the lists of students that have registered for both modules. T2 is, however, rolled back after T3 has already drawn a report from T2 that has not been finalized. This scenario depicts a certain type of concurrency control problem. Indicate which level of lock can be applied to the above scenario to avoid this kind of problem.  
+1. Table-level lock  
+2. Page-level lock  
+3. Database-level lock *  
+4. Row-level lock  
+
+Tina is a data analyst who wants an answer to the query "How does the 2019 total monthly sales performance compare to the 2004 monthly sales performance?" Having performed the query, suppose she spots a sharp total sales decline in March 2019. Given this discovery, she may then decide to perform a drill-down procedure for the month of March to see how 2019 year March sales by region stacks up against the previous year. The drill-down results are then used to find out whether the low overall March sales were reflected in all regions or only in a particular region. This example depicts activity/s that can be performed at which component of the star schema?  
+1. Fact  
+2. Attribute hierarchy *  
+3. Dimension  
+4. Attribute  
+
+To generate database object statistics manually, the following syntax should be used in Oracle:  
+1. ANALYZE <TABLE/INDEX> object_name COMPUTE STATISTICS; *  
+2. ANALYZE <TABLE/INDEX> object_name;  
+3. CREATE <TABLE/INDEX> object_name;  
+4. CREATE <TABLE/INDEX> object_name COMPUTE STATISTICS;  
+
+Using _____, you can extract data from an XML document and convert it into a text file.  
+1. DTD  
+2. XSLT *  
+3. XMLD  
+4. XML schema  
+
+What are the general statements of direction or action that communicate and support DBA goals?  
+1. Policies *  
+2. Standards  
+3. Procedures  
+4. Documentations  
+
+What are the three main types of indexes?  
+1. Primary, Secondary, and Mandatory index  
+2. Primary, Secondary, and Mixed index  
+3. Primary, Secondary, and Multi-level index *  
+4. Primary, Secondary, and Maintenance index  
+
+What important role can indexes play in database design?  
+1. Improve data storage in the database system  
+2. Improving the performance of the database system *  
+3. Improving the backup process of the data in the database system  
+4. Improving physical access to the database system  
+
+What impression does it give when a database designer is called in by management?  
+1. The database is not performing to expectations *  
+2. The current database system has errors  
+3. The users cannot connect to the current database  
+4. The current database is full  
+
+What is the last step in the exchange between a Web browser and a database?  
+1. The Web browser requests a page from a Web server.  
+2. The middleware receives the query result and creates the HTML-formatted page.  
+3. The HTML output is displayed on the client computer’s Web browser *  
+4. The Web-to-database middleware uses ODBC to connect to the database.  
+
+What is the responsibility of Data replication and partitioning as a star schema performance improvement technique?  
+1. Fragments the database table  
+2. Develop multiple facts of the database tables  
+3. Horizontally and vertically divide the database  
+4. Splits and makes a copy of a database table *  
+
+What rule applies to the two-phase locking protocol?  
+1. No data is affected until all locks are released.  
+2. Two transactions cannot have conflicting locks. *  
+3. No unlock operation can precede a lock operation in a different transaction.  
+4. No data is affected until the transaction is in its locked position.  
+
+When a program is abnormally terminated, the equivalent of a ____ command occurs.  
+1. EXIT  
+2. COMMIT  
+3. ROLLBACK *  
+4. QUIT  
+
+When designing a database, you realized that a database column can have different values assigned to it. ________ refers to the number of different values a column could possibly have.  
+1. Database statistics  
+2. Primary keys  
+3. Column attributes  
+4. Data sparsity *  
+
+When introducing a database into an organization, the database approach creates a more controlled and structured information flow and thus affects people, functions, and interactions. This leads to a[n] _____ impact of the new database system.  
+1. operational  
+2. managerial  
+3. technical  
+4. cultural *  
+
+When is the implicit beginning of a database transaction?  
+1. When the COMMIT command is issued  
+2. When the database is started  
+3. When a table is accessed for the first time  
+4. When the first SQL statement is encountered *  
+
+When moving data from permanent storage to RAM, an I/O disk operation retrieves a[n]:  
+1. entire physical disk block. *  
+2. single attribute requested only.  
+3. entire table.  
+4. single row containing the attribute requested.  
+
+When performing user access management, a DBA defines each user to the database at the _____ levels.  
+1. application and network  
+2. application and DBMS  
+3. operating system and application  
+4. operating system and DBMS *  
+
+When setting optimizer hints, _____ instructs the optimizer to minimize the overall execution time, that is, to minimize the time it takes to return the total number of rows in the query result set. This hint is generally used for batch mode processes.  
+1. FIRST_ROWS  
+2. OPTIMIZATION_ROWS  
+3. INDEX  
+4. ALL_ROWS *  
+
+When setting optimizer hints, _____ instructs the optimizer to minimize the overall execution time, that is, to minimize the time it takes to return the total number of rows in the query result set. This hint is generally used for batch mode processes.  
+1. ALL_ROWS *  
+2. OPTIMIZATION_ROWS  
+3. INDEX(P_QOH_NDX)  
+4. FIRST_ROWS  
+
+Which Database Management System component is responsible for concurrency control?  
+1. Optimistic  
+2. Scheduler *  
+3. Stamping  
+4. Locks  
+
+Which of the following database middleware provides end-users support to access both relational and non-relational data?  
+1. Remote Data Objects (RDO)  
+2. Object Linking and Embedding for Database (OLE-DB) *  
+3. Data Access Objects (DAO)  
+4. Atomicity Open Database Connectivity (ODBC)  
+
+Which of the following deals with ensuring that data is protected against unauthorized access, and if the data are accessed by an authorized user, the data are used only for an authorized purpose?  
+1. Authentication  
+2. Confidentiality *  
+3. Availability  
+4. Integrity  
+
+Which of the following decisions is NOT included during distributed database design?  
+1. Which fragment must be replicated  
+2. How to partition the database into fragments  
+3. How transparent the database is going to be *  
+4. Where to locate those fragments and replications  
+
+Which of the following is a characteristic of the XML metalanguage?  
+1. It allows the definition of new tags. *  
+2. You can use the // symbol for entering a comment in the XML document  
+3. It is concerned with the way data are displayed.  
+4. It can be used as a replacement for HTML.  
+
+Which of the following is a client-side extension?  
+1. ODBC  
+2. ActiveX *  
+3. SQL*Net  
+4. TCP/IP  
+
+Which of the following is a reason why a DBMS's daily operations must be clearly documented?  
+1. Documentation of the daily operations helps manage the manual data resources of a company.  
+2. Documentation of the daily operations helps free the DBA from many lower-level technology-oriented tasks.  
+3. Documentation of the daily operations helps pinpoint causes and solutions of database problems. *  
+4. Documentation of the daily operations helps a company set its long-term goals.  
+
+Which of the following is a rule that applies to the two-phase locking protocol?  
+1. No data is affected until the transaction is released  
+2. Two transactions cannot have conflicting locks *  
+3. No unlock operation can precede a lock operation in a different transaction  
+4. No data is affected until locks are released  
+
+Which of the following is a well-defined web-server interface?  
+1. Common Gateway Interface *  
+2. Command Line Interface  
+3. Tiny Internet Interface  
+4. Windows NT  
+
+Which of the following is covered during the evaluation process of a database application?  
+1. Performance monitoring and tuning  
+2. Vendor downtime history  
+3. Security auditing and monitoring  
+4. Enforcement of all data validation rules *  
+
+Which of the following is NOT a desired managerial skill you should have as a Database Administrator (DBA)?  
+1. Coordination skills  
+2. Analytical skills  
+3. Operational skills *  
+4. Communication skills  
+
+Which of the following is NOT a disadvantage of centralized database management?  
+1. Reliability problem  
+2. The high cost of selling large central database systems and physical infrastructure *  
+3. Organizational rigidity imposed by the database  
+4. Performance degradation  
+
+Which of the following is NOT among the desirable DDBMS transparency features?  
+1. Homogeneity transparency *  
+2. Distributed transparency  
+3. Failure transparency  
+4. Heterogeneity transparency  
+
+Which of the following is NOT one of the issues that should be considered when resolving data requests in a distributed data environment?  
+1. Network and node availability  
+2. Data distribution  
+3. Data fragmentation *  
+4. Data replication  
+
+Which of the following is not one of the new innovative services provided by web database connectivity?  
+1. Permit rapid responses to competitive pressures  
+2. Allow anywhere, anytime data access using a stationed device on the internet *  
+3. Give fast and effective information dissemination  
+4. Increase customer satisfaction through web-based support services  
+
+Which of the following is NOT true about the dimensions component of a star schema? They are ____.  
+1. of interest because decision support data is almost always viewed in relation to other data  
+2. qualifying characteristics that provide additional perspectives to a given fact  
+3. ways through which facts are studied  
+4. stored in star schema table do for all *  
+
+Which of the following is NOT true regarding a scheduler?  
+1. Facilitates atomicity on the concurrency transactions through locking and stamping *  
+2. Establishes the order in which the operation within concurrent transactions are executed  
+3. It bases its actions on concurrency control algorithms  
+4. Is a DBMS’s component that is in charge of concurrency control resulting in the concurrent execution of several transactions.  
+
+Which of the following is one of the general phases data mining is subjected to?  
+1. Data partitioning  
+2. Data preparation *  
+3. Data analytic  
+4. Data replication  
+
+Which of the following is one of the three most common data integrity and consistency problems?  
+1. Deadlock  
+2. User errors  
+3. Disk failures  
+4. Lost updates *  
+
+Which of the following is the first step in the exchange between a web browser and a database?  
+1. client web browser requesting a page from a web server *  
+2. Rational DBMS computer generates request  
+3. Web-to-database middleware generates request  
+4. Web server sends a request to server computer  
+
+Which of the following is the first step of query processing at the DBMS server end?  
+1. Parsing *  
+2. Executing  
+3. Fetching  
+4. Delivering  
+
+Which of the following is true of a web application server?  
+1. It is automatically invoked by the browser when needed.  
+2. It is Microsoft’s implementation of a superset of the SQL Access Group CLI standard for database access.  
+3. It runs on the client machine, freeing server resources.  
+4. It provides security and authentication of users through user IDs and passwords. *  
+
+Which of the following statements about database transactions is NOT true?  
+1. Improper or incomplete transactions can have a devastating effect on database integrity  
+2. Every transaction must begin with the database in a known consistency state  
+3. Most real-world database transactions are formed by two or more database requests  
+4. Successful database transaction consists of only a collection of related SQL statements *  
+
+Which of the following would Not be considered an advantage of SQL data services in comparison with in-house database systems?  
+1. High level of failure tolerance  
+2. Central creation and allocation of database processes with the server *  
+3. High reliability and scalability of relational database capabilities at a low cost  
+4. Dynamic and automatic load balancing  
+
+Which of the following would NOT be considered parallel activities in the database life cycle (DBLC) and system development life cycle (SDLC)?  
+1. Testing and evaluation (DBLC) and testing and evaluation (SDLC)  
+2. Implementation and loading (DBLC) and coding (SDLC)  
+3. Database initial study (DBLC) and planning (SDLC) *  
+4. Database design (DBLC) and detailed design (SDLC)   
+
+Which of the processing is used to represent the process of storing separate copies of the database at multiple locations?  
+1. Mixed Replication  
+2. Data Replication *  
+3. Cloud Computing  
+4. Data Redundancy  
+
+Which one of the following describes the general condition in which a company operates?  
+1. Company conditions  
+2. Company situations *  
+3. Company operations  
+4. Company structure  
+
+Which one of the following will not be a result of uncontrolled data redundancy?  
+1. Data integrity *  
+2. Data inconsistency  
+3. Poor data security  
+4. Data anomalies  
+
+Which one of the following would NOT be considered among the four primary ways for evaluating DBMS products for data warehousing?  
+1. Confidentiality of data extraction *  
+2. End-user analytical interface  
+3. Database schema supported by the DBMS  
+4. Database size requirements  
+
+Which tool determines the size of the table given various attributes including the average row size in bytes?  
+1. CREATE_TABLE_ROLE  
+2. CREATE_TABLE_SIZE  
+3. CREATE_TABLE_INDEX  
+4. CREATE_TABLE_COST *  
+
+Your data warehousing project group is debating whether to create a prototype of a data warehouse before its implementation. The project group members are especially concerned about the need to acquire some data warehousing skills before implementing the enterprise-wide data warehouse. What would you recommend and why?  
+1. Creating a prototype of the data warehouse so the group can see a working model before the final data warehouse  
+2. Creating a data warehouse directly to save time as data warehouse requires time, money, and some management effort  
+3. Creating data mining instead as it has tools that help data warehouse focus on market niche  
+4. Creating a data mart instead as data mart development and usage costs are lower as a single-subject subset of a data warehouse *  

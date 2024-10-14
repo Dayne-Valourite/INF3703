@@ -1,0 +1,139 @@
+1. A distributed database management system (DDBMS) governs the storage and processing of logically related data over interconnected computer systems.
+A. True*
+B. False
+
+2. Distributed data access was needed to support geographically dispersed business units.
+A. True*
+B. False
+
+3. Rapid ad hoc data became unnecessary in the quick-response decision-making environment.
+A. True
+B. False*
+
+4. The web is the repository for distributed data.
+A. True*
+B. False
+
+5. Current distributed database management system (DDBMS) are subject to some problems, such as the complexity of management and control.
+A. True*
+B. False
+
+6. Distributed processing shares a database's logical processing among two or more physically independent sites that are connected through a network.
+A. True*
+B. False
+
+7. One of the advantages of a distributed database management system (DDBMS) is that the data is located near the site with the least demand.
+A. True
+B. False*
+
+8. One of the advantages of a distributed database management system (DDBMS) is security.
+A. True
+B. False*
+
+9. Distributed processing does not require a distributed database, and a distributed database does not require distributed processing.
+A. True
+B. False*
+
+10. In order to manage distributed data, copies or parts of the database processing functions must be distributed to all data storage sites.
+A. True*
+B. False
+
+11. A database management system (DBMS) must have validation, transformation, and mapping functions, as well as other functions, in order to be classified as distributed.
+A. True*
+B. False
+
+12. A fully distributed database management system (DBMS) must perform all the functions of a centralized DBMS, and it must handle all necessary functions imposed by the distribution of data and processing.
+A. True*
+B. False
+
+13. The transaction processor (TP) is the software component found in each computer that requests data.
+A. True*
+B. False
+
+14. A distributed database management system (DDBMS) must be communications-media-dependent.
+A. True
+B. False*
+
+15. A transaction processor (TP) is the software component residing on each computer that stores and retrieves data located at the site.
+A. True
+B. False*
+
+16. In the single-site processing, single-site data (SPSD) scenario, all processing must be done on the end user's side of the system.
+A. True
+B. False*
+
+17. Performance transparency ensures that the system finds the most cost-effective path to access remote data.
+A. True*
+B. False
+
+18. The level of transparency supported by the distributed database management system remains the same for all systems.
+A. True
+B. False*
+
+19. Distribution transparency is supported by a distributed data dictionary.
+A. True*
+B. False
+
+20. Distributed database systems do not require complex mechanisms to manage transactions and ensure the database's consistency and integrity.
+A. True
+B. False*
+
+21. A centralized database management is subject to a problem such as _____.
+A. Growing numbers of remote locations*
+B. Maintaining and operating small database systems
+C. Dependence on multiple sites
+D. Organizational flexibility of the database
+
+22. A disadvantage of a distributed database management system (DDBMS) is:
+A. Slower data access
+B. Site additions affect other operations
+C. Processor dependence
+D. Lack of standards*
+
+23. A distributed database is composed of several parts known as database _____.
+A. Sections
+B. Fragments*
+C. Partitions
+D. Parts
+
+24. Distributed processing does not require:
+A. Processing function distribution to all storage sites
+B. An existing distributed database*
+C. Interconnected networks of components
+D. Multiple sites to share processing chores
+
+25. A database management system needs _____ to prepare the data for presentation to the end user or to an application program.
+A. Security
+B. Concurrency control
+C. Formatting*
+D. I/O interface
+
+26. The _____ processor is the software component found in each computer that requests data. It receives and processes the application's data requests.
+A. Database
+B. Transaction*
+C. Data
+D. Network
+
+27. In theory, a(n) _____ can be an independent centralized database management system with proper interfaces to support remote access from other independent database management systems in the network.
+A. Transaction processor
+B. Application processor
+C. Transaction manager
+D. Data processor*
+
+28. Under the _____ scenario, all record- and file-locking activities are performed at the end-user location.
+A. Single-site processing, single-site data
+B. Multiple-site processing, single-site data*
+C. Single-site processing, multiple-site data
+D. Multiple-site processing, multiple-site data
+
+29. _____ distributed database management systems (DDBMS) integrate multiple instances of the same DBMS over a network.
+A. Homogeneous*
+B. Heterogeneous
+C. Fully heterogeneous
+D. Combination
+
+30. A _____ distributed database system will support different database management systems (DBMS) that may even support different models running under different computer systems.
+A. Fully heterogeneous*
+B. Fully homogeneous
+C. Homogeneous
+D. Heterogeneous

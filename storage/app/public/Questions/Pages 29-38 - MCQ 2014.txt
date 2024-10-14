@@ -1,0 +1,233 @@
+2. It requires that all operations of a transaction be completed.
+[1] Complexity
+[2] Durability
+[3] Atomicity*
+[4] Consistency
+
+3. All transactions must display these properties.
+[1] Atomicity, consistency, convenience, and isolation
+[2] Durability, atomicity, desolation, and isolation
+[3] Consistency, durability, complexity, and isolation
+[4] Atomicity, durability, consistency, and isolation*
+
+4. The ANSI has defined standards that govern SQL database transactions. Transaction support is provided by two SQL statements. What are they?
+[1] RETRIEVE AND ROLLBACK
+[2] ROLLBACK AND ASSIGN
+[3] COMMIT AND ROLLBACK*
+[4] ROLLBACK AND UPDATE
+
+5. When is the implicit beginning of a transaction?
+[1] When the database is started
+[2] When a table is accessed for the first time
+[3] When the first SQL statement is encountered*
+[4] When the COMMIT command is issued
+
+6. It is one of the three most common data integrity and consistency problems.
+[1] Lost updates*
+[2] Disk failures
+[3] Deadlocks
+[4] User errors
+
+7. The ____ manager is responsible for assigning and policing the locks used by the transactions.
+[1] Database
+[2] Table
+[3] Lock*
+[4] Transaction
+
+8. What is a rule that applies to the two-phase locking protocol?
+[1] Two transactions cannot have conflicting locks.*
+[2] No unlock operation can precede a lock operation in a different transaction.
+[3] No data is affected until all locks are released.
+[4] No data is affected until the transaction is in its locked position.
+
+9. This process generally makes of deferred write or deferred update.
+[1] Database recovery process
+[2] Transaction recovery procedure*
+[3] Database backup process
+[4] Transaction backup procedure
+
+10. It only backs up operations that are not reflected in a previous backup copy of the database.
+[1] Full backup
+[2] Transaction log backup*
+[3] Incremental backup
+[4] Differential backup
+
+11. All data in a database are stored in ____ files.
+[1] RAM
+[2] ROM
+[3] Data*
+[4] Table
+
+12. On the server side, the DBMS environment must be properly configured to respond to clients requests in the fastest way possible, while making optimum use of existing resources. The activities required to achieve that goal are commonly referred to as ____ tuning.
+[1] Database Performance
+[2] SQL Performance*
+[3] DB Performance
+[4] NoSQL Performance
+
+13. The data cache is where the data read from the database data files are stored ____ the data have been read or ____ the data are written to the database data files.
+[1] Before, before
+[2] Before, after
+[3] After, after
+[4] After, before*
+
+14. The DBMS ____ the SQL query and chooses the most efficient access/execution plan.
+[1] Parses*
+[2] Fetches
+[3] Executes
+[4] Processes
+
+15. It refers to the number of different values a column could possibly have.
+[1] Primary keys
+[2] Data sparsity*
+[3] Database statistics
+[4] Column Attributes
+
+16. The ____ table space is used for transaction-recovery purposes.
+[1] System data
+[2] Rollback segment*
+[3] Table data
+[4] Temporary segment
+
+17. This process reads the entire table sequentially, thus, it is one of the slowest.
+[1] Table scan*
+[2] Table access
+[3] Range scan
+[4] Index access
+
+18. They are expressed within the WHERE or HAVING clauses of a SQL statement.
+[1] Index selections
+[2] Conditional expressions*
+[3] Query formulations
+[4] RAID configurations
+
+19. It uses a set of pre-set rules and points to determine the best approach to execute a query. The rules assign a fixed cost to each SQL operation.
+[1] A rule-based optimizer*
+[2] A query-based optimizer
+[3] A cost-based optimizer
+[4] A sql-based optimizer
+
+20. This type of a cache is useful as a temporary storage for index-creation functions.
+[1] Data cache
+[2] SQL cache
+[3] Sort cache*
+[4] Index cache
+
+21. This term describes the process of database design and implementation.
+[1] Distributed database
+[2] Database programming
+[3] Database development*
+[4] Database planning
+
+22. It describes the general condition in which a company operates.
+[1] Company operations
+[2] Company situation*
+[3] Company condition
+[4] Company structure
+
+23. One of the actions performed in database initial study is:
+[1] Analyse the company operations
+[2] Define research questions
+[3] Define scope and boundaries*
+[4] Solve problems and constraints
+
+24. What impression does it give when a database designer is called in by management?
+[1] The current database system has errors
+[2] User cannot connect to the current database
+[3] The current database is full
+[4] The database is not performing to expectations*
+
+25. The primary objective of database design is ____.
+[1] to create the most efficient database possible
+[2] to create complete, normalized, non-redundant, and fully integrated conceptual, logical, and physical database models*
+[3] to create the fastest queries
+[4] to be able to add data quickly
+
+26. How many phases is the traditional SDLC divided into?
+[1] Six
+[2] Four
+[3] Five*
+[4] Three
+
+27. Coding, testing, and debugging are part of which phase in the SDLC.
+[1] Implementation*
+[2] Planning
+[3] Maintenance
+[4] System Design
+
+28. “Should the existing system be replaced?” is a question that is asked during the ____ stage of the SDLC.
+[1] Implementation
+[2] Planning*
+[3] Maintenance
+[4] System Design
+
+29. Creating the conceptual design and selecting DBMS software are part of the ____ phase of the DBLC.
+[1] Database initial study
+[2] Implementation and loading
+[3] Testing and evaluation
+[4] Database design*
+
+30. The implementation and loading phase of the DBLC involves ____.
+[1] Defining objectives
+[2] Testing the database
+[3] Installing the DBMS*
+[4] Introducing changes
+
+31. The conceptual design step that defines entities, attributes, and relationships is ____.
+[1] Database analysis and requirements
+[2] Entity relationship modelling and normalization*
+[3] Data model verification
+[4] Distributed database design
+
+32. This type of security allows physical access to areas by authorized personnel only.
+[1] Password security
+[2] Physical security*
+[3] Data security
+[4] Area security
+
+33. The first step in developing the conceptual model using ER diagrams is to ____.
+[1] Normalize entities
+[2] Complete initial ER diagram
+[3] Identify, analyze, and refine the business rules*
+[4] Define attributes
+
+34. This tool determines the size of the table given various attributes including the average row size in bytes.
+[1] CREATE_TABLE_SIZE
+[2] CREATE_TABLE_COST*
+[3] CREATE_TABLE_INDEX
+[4] CREATE_TABLE_ROLE
+
+35. What is important role can indexes have in the physical database design phase?
+[1] Improving physical access to database system
+[2] Improving data storage in the database system
+[3] Improving the backup process of the data in the database system
+[4] Improving the performance of the database system*
+
+36. This is a valuable resource within an organization and requires a successful database administration strategy.
+[1] Database Design
+[2] Data*
+[3] Files
+[4] Knowledge
+
+37. At the level of middle management, the database must be able to ____.
+[1] Represent and support the company operations as closely as possible
+[2] Deliver the data necessary for tactical decisions and planning*
+[3] Produce query results within specified performance levels
+[4] Provide access to external and internal data to identify growth opportunities and to chart the direction of such growth
+
+38. It is common practice to define the DBA function by dividing the DBA operations according to the ____ phases.
+[1] SLA
+[2] DBMS
+[3] DBLC*
+[4] SDLC
+
+39. The statement “Usernames and passwords must contain alphanumeric characters” is an example of a ___.
+[1] Rule
+[2] Procedure
+[3] Standard*
+[4] Policy
+
+40. Several DBMS packages contain features that allow the creation of a(n) ____, which automatically records a brief description of the database operations performed by all users.
+[1] Change tracker
+[2] Paper trail
+[3] Audit log*
+[4] Digital footprint

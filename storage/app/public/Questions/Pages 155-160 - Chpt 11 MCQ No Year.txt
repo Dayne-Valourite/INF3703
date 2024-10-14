@@ -1,0 +1,120 @@
+1. In most modern relational DBMSs, such as IBM DB2, Microsoft SQL Server, and Oracle, a new database implementation requires the creation of special storage-related constructs to house the end-user tables. These constructs include ____.
+A. Segments
+B. Constraints
+C. Indexes
+D. Table spaces*
+
+2. ____ design is the process of selecting the data storage and data access characteristics of the database.
+A. Time
+B. Network
+C. Logical
+D. Physical*
+
+3. In the ________________ stage, data modeling is used to create an abstract database structure that represents real-world objects in the most realistic way possible.
+A. Physical design
+B. ER verification
+C. Conceptual design*
+D. Logical design
+
+4. Steps in developing the conceptual model include:
+A. Identifying the main business rules
+B. Identifying the main entities
+C. Identifying all relationships
+D. All of the above*
+
+5. The term ____ describes the strength of the relationships found among the module's entities.
+A. Adhesion
+B. Cohesivity
+C. Coupling*
+D. Modularity
+
+6. ____ coupling describes the extent to which modules are independent of one another.
+A. Verification
+B. Process
+C. Module
+D. Cohesive*
+
+7. The aim of ________________ is to map the conceptual model into a form which can then be implemented on a relational DBMS.
+A. Physical design
+B. ER verification
+C. Conceptual design
+D. Logical design*
+
+8. What is the first step in converting the ER model from the conceptual design phase into a set of relations?
+A. Create Relations for Strong Entities*
+B. Map multivalued attributes
+C. Create Relations for Weak Entities
+D. Map binary relations
+
+9. ___________________ requires the definition of specific storage or access methods that will be used by the database.
+A. Logical design
+B. Conceptual design
+C. Translation of logical relations into tables
+D. Physical design*
+
+10. Selecting the most suitable _________________ is very important to ensure that the data is stored efficiently and data can be retrieved as quickly as possible.
+A. DBMS
+B. File organization*
+C. Indexes
+D. Logical relations
+
+11. A ____________ is often used on multidimensional data held in data warehouses.
+A. Bitmap index*
+B. B-tree
+C. Hashing algorithm
+D. Primary index
+
+12. Clustering is not a good idea when_______________________.
+A. Database tables are frequently joined together
+B. Data is regularly inserted or updated in a table*
+C. There is no cluster key
+D. Applications require a full database table to be scanned
+
+13. ____________________ are usually placed on additional fields which are used regularly in user queries in order to increase the speed of data retrieval.
+A. Bitmap indexes
+B. Secondary indexes*
+C. Unique indexes
+D. Primary indexes
+
+14. The SQL command _________is used to withdraw privileges on specific user accounts.
+A. REMOVE
+B. REVOKE*
+C. ROLE
+D. GRANT
+
+15. Files which follow the_____________ are often referred to as random or direct files.
+A. Heaped organization
+B. Sequential organization
+C. Indexed organization
+D. Hashed organization*
+
+16. __________________is usually the first stage of physical database design.
+A. Analyzing user queries and the size of the database
+B. Determine a suitable file organization
+C. Translate each relation identified in the logical data model into a table*
+D. Defining indexes
+
+17. In logical database design, when mapping binary 1:* relations.
+A. Create the relations for each of the two entities that are participating in the relationship and create the foreign key on the ‘many’ side by including the primary key attribute from the ‘one’ side.*
+B. Check to see if there is mandatory participation on one side of the relationship, then the entity which has the optional participation becomes the parent entity and the entity that has the mandatory relationship becomes the dependent entity. The relation corresponding to the parent entity should contain the foreign key of the dependent entity.
+C. Create the relations for each of the two entities that are participating in the relationship. Then create a third relation to represent the actual relationship. The third relation will contain the foreign keys of the two original entries that participate in the original relationship.
+D. Check to see if both entities are in a mandatory participation in a relationship and they do not participate in other relationships, it is then most likely that the two entities should be part of the same entity.
+
+18. In the following relation, what is the primary key?
+RENT_LINE(RENT_NUM*, RENT_LINE_NUM*, RENT_LINE_CHARGE, DATE, COPY_CODE*)
+A. RENT_NUM
+B. RENT_LINE_NUM
+C. RENT_NUM and RENT_LINE_NUM*
+D. RENT_NUM and RENT_LINE_NUM and COPY_CODE
+
+19. A(n) _____________________ is a brief and precise narrative description of a policy, procedure, or principle within a specific organization’s environment.
+A. End-user brief
+B. Operational description
+C. Conceptual model
+D. Business rule*
+
+20. Indexes should not be used when:
+A. Tables have low sparsity*
+B. Attributes appear often in the WHERE clause
+C. Using joins
+D. Tables have high sparsity

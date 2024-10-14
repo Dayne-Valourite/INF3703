@@ -1,0 +1,119 @@
+1. An entity ____ might be viewed as a separate entity by one or more departments.
+A. Subtype
+B. Synonym
+C. Homonym*
+D. Conflict
+
+2. Maintenance and enhancement are part of the ____ phase of the SDLC.
+A. Planning
+B. Maintenance*
+C. Detailed systems design
+D. Implementation
+
+3. ____ are usually provided by the DBMS to check for access violations.
+A. Access rights
+B. Diskless workstations
+C. Security devices
+D. Audit trails*
+
+4. The assignment of ____ may restrict operations on predetermined objects such as databases, tables, views, queries, and reports.
+A. Diskless workstations
+B. Password security
+C. Access rights*
+D. Audit trails
+
+5. The initial assessment and feasibility study are part of the SDLC's ____ phase.
+A. Planning*
+B. Analysis
+C. Detailed systems design
+D. Implementation
+
+6. The user requirements, existing system evaluation, and logical system design are part of the ____ phase of the SDLC.
+A. Planning
+B. Analysis*
+C. Detailed systems design
+D. Implementation
+
+7. The detailed system specification is part of the ____ phase of the SDLC.
+A. Planning
+B. Analysis
+C. Detailed systems design*
+D. Implementation
+
+8. ____ design is likely to be employed when the problem itself is spread across several operational sites and each element is a subset of the entire data set.
+A. Normalized
+B. Denormalized
+C. Decentralized*
+D. Centralized
+
+9. The implementation of ____-produced applications tends to prolong the operational life of systems by making them easier to update and maintain.
+A. Database
+B. Network
+C. CASE*
+D. Design
+
+10. ____ can be used to render data useless to unauthorized users who might have violated some of the database security layers.
+A. Data encryption*
+B. Diskless workstations
+C. Access rights
+D. Audit trails
+
+11. ____ design is productive when the data component is composed of a relatively small number of objects and procedures.
+A. Normalized
+B. Denormalized
+C. Decentralized
+D. Centralized*
+
+12. The logical systems design is created during the ____ phase of the SDLC.
+A. Planning
+B. Analysis*
+C. Implementation
+D. Maintenance
+
+13. ____ design first identifies the data elements (items), then groups them together in data sets.
+A. Top-down*
+B. Bottom-up
+C. Analysis
+D. Conceptual
+
+14. The database initial study phase of the DBLC involves ____.
+A. Defining objectives*
+B. Introducing changes
+C. Testing the database
+D. Installing the DBMS
+
+15. Once the data have been loaded into the database, the ____ tests and fine-tunes the database for performance, integrity, concurrent access, and security constraints.
+A. Programmer
+B. Manager
+C. Database administrator*
+D. Systems administrator
+
+16. A ____ is a named collection of database access privileges that authorize a user to connect to the database and use the database system resources.
+A. User
+B. Role*
+C. Profile
+D. Manager
+
+17. The DBA's ____ role covers activities involving the use of the DBMS.
+A. Administrative
+B. Arbitration
+C. Technical*
+D. Managerial
+
+18. ____ are general statements of direction or action that communicate and support DBA goals.
+A. Standards
+B. Policies*
+C. Documentation
+D. Procedures
+
+19. A way of identifying the user and verifying that the user is allowed to access some restricted data or application is through _________________.
+A. User authentication*
+B. Policies and procedures
+C. Data encryption
+D. Audit trails
+
+20. The ____ administrator is responsible for providing a global and comprehensive administrative strategy for all of the organization's data.
+A. System
+B. Data*
+C. Database
+D. Program
